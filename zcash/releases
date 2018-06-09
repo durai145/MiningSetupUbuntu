@@ -1,0 +1,1331 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+  <link rel="dns-prefetch" href="https://assets-cdn.github.com">
+  <link rel="dns-prefetch" href="https://avatars0.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars1.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars2.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars3.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
+  <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
+
+
+
+  <link crossorigin="anonymous" media="all" integrity="sha512-PkbtxdWDpLChpxtWQ0KbvJoef4XMYPq5pfd/ZmylYZTzXYpCfGwN9d+bsSKcmOJLwTkfjFkfj5wz3poDrhJoSQ==" rel="stylesheet" href="https://assets-cdn.github.com/assets/frameworks-f6e6ce21346c0d2eb22def1e8534afcb.css" />
+  <link crossorigin="anonymous" media="all" integrity="sha512-5Pj8fq31sBxIXK/KwAiU+J0oAeEWcf3ndslrDTUHFp1D9pyFfxQrIOS0mWomoAkUy1xbFPXOt/X6Aoj3kITLow==" rel="stylesheet" href="https://assets-cdn.github.com/assets/github-77e7f4e063161936c478054317d2f5be.css" />
+  
+  
+  <link crossorigin="anonymous" media="all" integrity="sha512-zyxweUSm/NG+juywqcMFSS4HbKjLWCZyEM2JjoCqnQUU6RVrHpHMwH66xreiaeMIRoA6vYuk0hm8S1X42r/YWQ==" rel="stylesheet" href="https://assets-cdn.github.com/assets/site-220df28424b63d1e24f3bd909efebe81.css" />
+  
+
+  <meta name="viewport" content="width=device-width">
+  
+  <title>Releases · nanopool/ewbf-miner · GitHub</title>
+    <meta name="description" content="GitHub is where people build software. More than 28 million people use GitHub to discover, fork, and contribute to over 85 million projects.">
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
+  <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
+  <meta property="fb:app_id" content="1401488693436528">
+
+    
+    <meta property="og:image" content="https://avatars0.githubusercontent.com/u/17878829?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="nanopool/ewbf-miner" /><meta property="og:url" content="https://github.com/nanopool/ewbf-miner" /><meta property="og:description" content="ewbf-miner - zcash cuda miner" />
+
+  <link rel="assets" href="https://assets-cdn.github.com/">
+  
+  <meta name="pjax-timeout" content="1000">
+  
+  <meta name="request-id" content="BA1C:20B1:92B8B4:11E8536:5B1742B3" data-pjax-transient>
+
+
+  
+
+  <meta name="selected-link" value="repo_releases" data-pjax-transient>
+
+    <meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
+  <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
+  <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
+    <meta name="google-analytics" content="UA-3769691-2">
+
+<meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="BA1C:20B1:92B8B4:11E8536:5B1742B3" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" />
+<meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/releases/index" data-pjax-transient="true" />
+
+
+
+
+  <meta class="js-ga-set" name="dimension1" content="Logged Out">
+
+
+  
+
+      <meta name="hostname" content="github.com">
+    <meta name="user-login" content="">
+
+      <meta name="expected-hostname" content="github.com">
+    <meta name="js-proxy-site-detection-payload" content="NDkwMjk1Zjg3MGQxZDgzN2ZhODY2MDk0N2VkZmUzMzViYmQ3ODEwMmIzN2I0ZmFhZjk3MTdkYjQ1NGE1NTk2MHx7InJlbW90ZV9hZGRyZXNzIjoiNzEuMTYzLjE2LjE5IiwicmVxdWVzdF9pZCI6IkJBMUM6MjBCMTo5MkI4QjQ6MTFFODUzNjo1QjE3NDJCMyIsInRpbWVzdGFtcCI6MTUyODI1MTA2MCwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+
+    <meta name="enabled-features" content="UNIVERSE_BANNER,FREE_TRIALS,MARKETPLACE_INSIGHTS,MARKETPLACE_INSIGHTS_CONVERSION_PERCENTAGES,DIFF_EDIT_HISTORY">
+
+  <meta name="html-safe-nonce" content="db529304868c24b5d3fe3c9c436ed98f4a63b045">
+
+  <meta http-equiv="x-pjax-version" content="1dbe08fc0bb9aa60cd5315324e9f7159">
+  
+
+      <link rel="alternate" type="application/atom+xml" title="ewbf-miner Release Notes" href="https://github.com/nanopool/ewbf-miner/releases.atom" />
+  <link rel="alternate" type="application/atom+xml" title="ewbf-miner Tags" href="https://github.com/nanopool/ewbf-miner/tags.atom" />
+  <link href="https://github.com/nanopool/ewbf-miner/commits/master.atom" rel="alternate" title="Recent Commits to ewbf-miner:master" type="application/atom+xml">
+
+  <meta name="description" content="ewbf-miner - zcash cuda miner">
+  <meta name="go-import" content="github.com/nanopool/ewbf-miner git https://github.com/nanopool/ewbf-miner.git">
+
+  <meta name="octolytics-dimension-user_id" content="17878829" /><meta name="octolytics-dimension-user_login" content="nanopool" /><meta name="octolytics-dimension-repository_id" content="75933538" /><meta name="octolytics-dimension-repository_nwo" content="nanopool/ewbf-miner" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="75933538" /><meta name="octolytics-dimension-repository_network_root_nwo" content="nanopool/ewbf-miner" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
+
+
+
+
+  <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
+
+  <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
+
+  <link rel="mask-icon" href="https://assets-cdn.github.com/pinned-octocat.svg" color="#000000">
+  <link rel="icon" type="image/x-icon" class="js-site-favicon" href="https://assets-cdn.github.com/favicon.ico">
+
+<meta name="theme-color" content="#1e2327">
+
+
+
+<link rel="manifest" href="/manifest.json" crossOrigin="use-credentials">
+
+  </head>
+
+  <body class="logged-out env-production">
+    
+
+  <div class="position-relative js-header-wrapper ">
+    <a href="#start-of-content" tabindex="1" class="px-2 py-4 bg-blue text-white show-on-focus js-skip-to-content">Skip to content</a>
+    <div id="js-pjax-loader-bar" class="pjax-loader-bar"><div class="progress"></div></div>
+
+    
+    
+    
+
+        <div class="py-2 px-3 f5 rounded-0" style="color: rgba(255,255,255,.85); background-color: #004275;">
+      <div class="d-flex flex-items-start flex-items-center mx-auto" style="max-width: 980px;">
+        <div class="d-flex flex-items-center my-1 my-md-0 mr-auto mr-md-0">
+  <div class="flex-shrink-0" style="width: 28px; height: 28px;">
+    <span style="float: left; width: 12px; height: 12px; border: 1px solid rgba(255,255,255,.01); margin: 1px; background-color: #f25022;"></span>
+    <span style="float: left; width: 12px; height: 12px; border: 1px solid rgba(255,255,255,.01); margin: 1px; background-color: #7fba00;"></span>
+    <span style="float: left; width: 12px; height: 12px; border: 1px solid rgba(255,255,255,.01); margin: 1px; background-color: #00a4ef;"></span>
+    <span style="float: left; width: 12px; height: 12px; border: 1px solid rgba(255,255,255,.01); margin: 1px; background-color: #ffb900;"></span>
+  </div>
+  <svg height="16" style="margin-left: 6px; margin-right: 6px;" class="octicon octicon-plus" viewBox="0 0 12 16" version="1.1" width="12" aria-hidden="true"><path fill-rule="evenodd" d="M12 9H7v5H5V9H0V7h5V2h2v5h5v2z"/></svg>
+  <svg height="25" class="octicon octicon-mark-github mr-2 text-white" viewBox="0 0 16 16" version="1.1" width="25" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+</div>
+
+        <div class="width-full width-md-auto my-1 my-md-0 mr-auto">
+  Microsoft is acquiring GitHub! <a href="https://blog.github.com/2018-06-04-github-microsoft/" class="text-bold text-white" data-ga-click="MS banner, click, link - text:Read our blog">Read our blog</a> and <a href="https://blogs.microsoft.com/?p=52553832" class="text-bold text-white" data-ga-click="MS banner, click, link - text:Satya Nadella's post">Satya Nadella's post</a> to learn more.
+</div>
+
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="order-md-last" action="/site/dismiss_banner" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="J372fC5cinmEcy51MmDd/VnpFVVwExOpknFTe7ka+Dz4ZessL6Cr35iRU/uyglfIhVJZtsLeebVh69v0EXezmA==" />
+          <button type="submit" class="btn-link text-white p-2 ml-1" data-ga-click="MS banner, click, dismiss (logged out)">
+            <svg height="16" class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+            <span class="sr-only">Dismiss</span>
+          </button>
+</form>      </div>
+  </div>
+
+
+
+
+        <header class="Header header-logged-out  position-relative f4 py-3" role="banner">
+  <div class="container-lg d-flex px-3">
+    <div class="d-flex flex-justify-between flex-items-center">
+      <a class="header-logo-invertocat my-0" href="https://github.com/" aria-label="Homepage" data-ga-click="(Logged out) Header, go to homepage, icon:logo-wordmark">
+        <svg height="32" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+      </a>
+
+    </div>
+
+    <div class="HeaderMenu HeaderMenu--bright d-flex flex-justify-between flex-auto">
+        <nav class="mt-0">
+          <ul class="d-flex list-style-none">
+              <li class="ml-2">
+                <a class="js-selected-navigation-item HeaderNavlink px-0 py-2 m-0" data-ga-click="Header, click, Nav menu - item:features" data-selected-links="/features /features/project-management /features/code-review /features/project-management /features/integrations /features" href="/features">
+                  Features
+</a>              </li>
+              <li class="ml-4">
+                <a class="js-selected-navigation-item HeaderNavlink px-0 py-2 m-0" data-ga-click="Header, click, Nav menu - item:business" data-selected-links="/business /business/security /business/customers /business" href="/business">
+                  Business
+</a>              </li>
+
+              <li class="ml-4">
+                <a class="js-selected-navigation-item HeaderNavlink px-0 py-2 m-0" data-ga-click="Header, click, Nav menu - item:explore" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">
+                  Explore
+</a>              </li>
+
+              <li class="ml-4">
+                    <a class="js-selected-navigation-item HeaderNavlink px-0 py-2 m-0" data-ga-click="Header, click, Nav menu - item:marketplace" data-selected-links=" /marketplace" href="/marketplace">
+                      Marketplace
+</a>              </li>
+              <li class="ml-4">
+                <a class="js-selected-navigation-item HeaderNavlink px-0 py-2 m-0" data-ga-click="Header, click, Nav menu - item:pricing" data-selected-links="/pricing /pricing/developer /pricing/team /pricing/business-hosted /pricing/business-enterprise /pricing" href="/pricing">
+                  Pricing
+</a>              </li>
+          </ul>
+        </nav>
+
+      <div class="d-flex">
+          <div class="d-lg-flex flex-items-center mr-3">
+            <div class="header-search scoped-search site-scoped-search js-site-search position-relative" role="search">
+  <div class="position-relative">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" data-scope-type="Repository" data-scope-id="75933538" data-scoped-search-url="/nanopool/ewbf-miner/search" data-unscoped-search-url="/search" action="/nanopool/ewbf-miner/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+      <label class="form-control header-search-wrapper  js-chromeless-input-container">
+            <a class="header-search-scope no-underline" href="/nanopool/ewbf-miner/releases">This repository</a>
+        <input type="text"
+          class="form-control header-search-input  js-site-search-focus js-site-search-field is-clearable"
+          data-hotkey="s,/"
+          name="q"
+          value=""
+          placeholder="Search"
+          aria-label="Search this repository"
+          data-unscoped-placeholder="Search GitHub"
+          data-scoped-placeholder="Search"
+          autocapitalize="off"
+          >
+          <input type="hidden" class="js-site-search-type-field" name="type" >
+      </label>
+</form>  </div>
+</div>
+
+          </div>
+
+        <span class="d-inline-block">
+            <div class="HeaderNavlink px-0 py-2 m-0">
+              <a class="text-bold text-white no-underline" href="/login?return_to=%2Fnanopool%2Fewbf-miner%2Freleases" data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">Sign in</a>
+                <span class="text-gray">or</span>
+                <a class="text-bold text-white no-underline" href="/join?source=header-repo" data-ga-click="(Logged out) Header, clicked Sign up, text:sign-up">Sign up</a>
+            </div>
+        </span>
+      </div>
+    </div>
+  </div>
+</header>
+
+  </div>
+
+  <div id="start-of-content" class="show-on-focus"></div>
+
+    <div id="js-flash-container">
+</div>
+
+
+
+  <div role="main" class="application-main ">
+        <div itemscope itemtype="http://schema.org/SoftwareSourceCode" class="">
+    <div id="js-repo-pjax-container" data-pjax-container >
+      
+
+
+
+
+
+
+  <div class="pagehead repohead instapaper_ignore readability-menu experiment-repo-nav  ">
+    <div class="repohead-details-container clearfix container">
+
+      <ul class="pagehead-actions">
+  <li>
+      <a href="/login?return_to=%2Fnanopool%2Fewbf-miner"
+    class="btn btn-sm btn-with-count tooltipped tooltipped-n"
+    aria-label="You must be signed in to watch a repository" rel="nofollow">
+    <svg class="octicon octicon-eye" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
+    Watch
+  </a>
+  <a class="social-count" href="/nanopool/ewbf-miner/watchers"
+     aria-label="97 users are watching this repository">
+    97
+  </a>
+
+  </li>
+
+  <li>
+      <a href="/login?return_to=%2Fnanopool%2Fewbf-miner"
+    class="btn btn-sm btn-with-count tooltipped tooltipped-n"
+    aria-label="You must be signed in to star a repository" rel="nofollow">
+    <svg class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+    Star
+  </a>
+
+    <a class="social-count js-social-count" href="/nanopool/ewbf-miner/stargazers"
+      aria-label="308 users starred this repository">
+      308
+    </a>
+
+  </li>
+
+  <li>
+      <a href="/login?return_to=%2Fnanopool%2Fewbf-miner"
+        class="btn btn-sm btn-with-count tooltipped tooltipped-n"
+        aria-label="You must be signed in to fork a repository" rel="nofollow">
+        <svg class="octicon octicon-repo-forked" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+        Fork
+      </a>
+
+    <a href="/nanopool/ewbf-miner/network" class="social-count"
+       aria-label="127 users forked this repository">
+      127
+    </a>
+  </li>
+</ul>
+
+      <h1 class="public ">
+  <svg class="octicon octicon-repo" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
+  <span class="author" itemprop="author"><a class="url fn" rel="author" href="/nanopool">nanopool</a></span><!--
+--><span class="path-divider">/</span><!--
+--><strong itemprop="name"><a data-pjax="#js-repo-pjax-container" href="/nanopool/ewbf-miner">ewbf-miner</a></strong>
+
+</h1>
+
+    </div>
+    
+<nav class="reponav js-repo-nav js-sidenav-container-pjax container"
+     itemscope
+     itemtype="http://schema.org/BreadcrumbList"
+     role="navigation"
+     data-pjax="#js-repo-pjax-container">
+
+  <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+    <a class="js-selected-navigation-item selected reponav-item" itemprop="url" data-hotkey="g c" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /nanopool/ewbf-miner" href="/nanopool/ewbf-miner">
+      <svg class="octicon octicon-code" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"/></svg>
+      <span itemprop="name">Code</span>
+      <meta itemprop="position" content="1">
+</a>  </span>
+
+    <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+      <a itemprop="url" data-hotkey="g i" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /nanopool/ewbf-miner/issues" href="/nanopool/ewbf-miner/issues">
+        <svg class="octicon octicon-issue-opened" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
+        <span itemprop="name">Issues</span>
+        <span class="Counter">76</span>
+        <meta itemprop="position" content="2">
+</a>    </span>
+
+  <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+    <a data-hotkey="g p" itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /nanopool/ewbf-miner/pulls" href="/nanopool/ewbf-miner/pulls">
+      <svg class="octicon octicon-git-pull-request" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0 0 10 15a1.993 1.993 0 0 0 1-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v6.56A1.993 1.993 0 0 0 2 15a1.993 1.993 0 0 0 1-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+      <span itemprop="name">Pull requests</span>
+      <span class="Counter">1</span>
+      <meta itemprop="position" content="3">
+</a>  </span>
+
+    <a data-hotkey="g b" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /nanopool/ewbf-miner/projects" href="/nanopool/ewbf-miner/projects">
+      <svg class="octicon octicon-project" viewBox="0 0 15 16" version="1.1" width="15" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"/></svg>
+      Projects
+      <span class="Counter" >0</span>
+</a>
+
+
+  <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors dependency_graph pulse /nanopool/ewbf-miner/pulse" href="/nanopool/ewbf-miner/pulse">
+    <svg class="octicon octicon-graph" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M16 14v1H0V0h1v14h15zM5 13H3V8h2v5zm4 0H7V3h2v10zm4 0h-2V6h2v7z"/></svg>
+    Insights
+</a>
+
+</nav>
+
+
+  </div>
+
+<div class="container new-discussion-timeline experiment-repo-nav  ">
+  <div class="repository-content ">
+
+    
+  <div class="subnav" data-pjax>
+    <div class="subnav-links float-left" role="navigation">
+  <a class="js-selected-navigation-item selected subnav-item" data-selected-links="repo_releases /nanopool/ewbf-miner/releases" href="/nanopool/ewbf-miner/releases">Releases</a>
+  <a class="js-selected-navigation-item subnav-item" data-selected-links="repo_tags /nanopool/ewbf-miner/tags" href="/nanopool/ewbf-miner/tags">Tags</a>
+
+</div>
+
+
+    <div class="float-right">
+    </div>
+  </div>
+
+  <div class="position-relative border-top">
+
+
+
+        
+<div class="release clearfix label-latest">
+  <div class="release-meta float-left text-right v-align-top">
+      <span class="Label Label--outline mb-2 Label--latest">
+          <a href="/nanopool/ewbf-miner/releases/latest">Latest release</a>
+      </span>
+
+      <ul class="tag-references mt-2">
+        <li class="d-block mb-1 mr-0">
+          <a href="/nanopool/ewbf-miner/tree/v0.3.4b" class="css-truncate">
+            <svg class="octicon octicon-tag" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.685 1.72a2.49 2.49 0 0 0-1.76-.726H3.48A2.5 2.5 0 0 0 .994 3.48v2.456c0 .656.269 1.292.726 1.76l6.024 6.024a.99.99 0 0 0 1.402 0l4.563-4.563a.99.99 0 0 0 0-1.402L7.685 1.72zM2.366 7.048A1.54 1.54 0 0 1 1.9 5.925V3.48c0-.874.716-1.58 1.58-1.58h2.456c.418 0 .825.159 1.123.467l6.104 6.094-4.702 4.702-6.094-6.114zm.626-4.066h1.989v1.989H2.982V2.982h.01z"/></svg>
+            <span class="css-truncate-target">v0.3.4b</span>
+          </a>
+        </li>
+
+        <li class="d-block mr-0">
+          <a href="/nanopool/ewbf-miner/commit/3ef5b50ecf73b0924841f16ed1d4f7cd484c6063">
+            <svg class="octicon octicon-git-commit" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10.86 7c-.45-1.72-2-3-3.86-3-1.86 0-3.41 1.28-3.86 3H0v2h3.14c.45 1.72 2 3 3.86 3 1.86 0 3.41-1.28 3.86-3H14V7h-3.14zM7 10.2c-1.22 0-2.2-.98-2.2-2.2 0-1.22.98-2.2 2.2-2.2 1.22 0 2.2.98 2.2 2.2 0 1.22-.98 2.2-2.2 2.2z"/></svg>
+            <code>3ef5b50</code>
+          </a>
+        </li>
+      </ul>
+      
+
+  </div><!-- /.meta -->
+
+  <div class="release-body commit open float-left">
+    <div class="release-header">
+
+      <h1 class="release-title text-normal">
+        <a href="/nanopool/ewbf-miner/releases/tag/v0.3.4b">EWBF&#39;s CUDA Zcash miner v0.3.4b</a>
+      </h1>
+      <p class="f5 text-gray mt-1 mb-4">
+        <img class="avatar" src="https://avatars0.githubusercontent.com/u/17878829?s=40&amp;v=4" width="20" height="20" alt="@nanopool" />
+        <a href="/nanopool" class="text-bold text-gray">nanopool</a>
+        released this
+          <relative-time datetime="2017-06-24T10:39:20Z">Jun 24, 2017</relative-time>
+
+      </p>
+    </div>
+
+      <div class="my-4">
+        <h2 class="f3">Assets</h2>
+        <ul class="mt-2">
+            <li class="d-block py-2">
+              <a href="/nanopool/ewbf-miner/releases/download/v0.3.4b/Zec.miner.0.3.4b.Linux.Bin.tar.gz" rel="nofollow">
+                <small class="text-gray float-right">333 KB</small>
+                <svg class="octicon octicon-package text-gray d-inline-block" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1 4.27v7.47c0 .45.3.84.75.97l6.5 1.73c.16.05.34.05.5 0l6.5-1.73c.45-.13.75-.52.75-.97V4.27c0-.45-.3-.84-.75-.97l-6.5-1.74a1.4 1.4 0 0 0-.5 0L1.75 3.3c-.45.13-.75.52-.75.97zm7 9.09l-6-1.59V5l6 1.61v6.75zM2 4l2.5-.67L11 5.06l-2.5.67L2 4zm13 7.77l-6 1.59V6.61l2-.55V8.5l2-.53V5.53L15 5v6.77zm-2-7.24L6.5 2.8l2-.53L15 4l-2 .53z"/></svg>
+                <strong class="pl-1">Zec.miner.0.3.4b.Linux.Bin.tar.gz</strong>
+              </a>
+            </li>
+            <li class="d-block py-2">
+              <a href="/nanopool/ewbf-miner/releases/download/v0.3.4b/Zec.miner.0.3.4b.zip" rel="nofollow">
+                <small class="text-gray float-right">433 KB</small>
+                <svg class="octicon octicon-package text-gray d-inline-block" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1 4.27v7.47c0 .45.3.84.75.97l6.5 1.73c.16.05.34.05.5 0l6.5-1.73c.45-.13.75-.52.75-.97V4.27c0-.45-.3-.84-.75-.97l-6.5-1.74a1.4 1.4 0 0 0-.5 0L1.75 3.3c-.45.13-.75.52-.75.97zm7 9.09l-6-1.59V5l6 1.61v6.75zM2 4l2.5-.67L11 5.06l-2.5.67L2 4zm13 7.77l-6 1.59V6.61l2-.55V8.5l2-.53V5.53L15 5v6.77zm-2-7.24L6.5 2.8l2-.53L15 4l-2 .53z"/></svg>
+                <strong class="pl-1">Zec.miner.0.3.4b.zip</strong>
+              </a>
+            </li>
+
+
+            <li class="d-block py-2">
+              <a href="/nanopool/ewbf-miner/archive/v0.3.4b.zip" rel="nofollow">
+                <svg class="octicon octicon-file-zip text-gray d-inline-block ml-1" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.5 1H1a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V4.5L8.5 1zM11 14H1V2h3v1h1V2h3l3 3v9zM5 4V3h1v1H5zM4 4h1v1H4V4zm1 2V5h1v1H5zM4 6h1v1H4V6zm1 2V7h1v1H5zM4 9.28A2 2 0 0 0 3 11v1h4v-1a2 2 0 0 0-2-2V8H4v1.28zM6 10v1H4v-1h2z"/></svg>
+                <strong class="pl-1">Source code</strong> (zip)
+              </a>
+            </li>
+            <li class="d-block py-2">
+              <a href="/nanopool/ewbf-miner/archive/v0.3.4b.tar.gz" rel="nofollow">
+                <svg class="octicon octicon-file-zip text-gray d-inline-block ml-1" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.5 1H1a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V4.5L8.5 1zM11 14H1V2h3v1h1V2h3l3 3v9zM5 4V3h1v1H5zM4 4h1v1H4V4zm1 2V5h1v1H5zM4 6h1v1H4V6zm1 2V7h1v1H5zM4 9.28A2 2 0 0 0 3 11v1h4v-1a2 2 0 0 0-2-2V8H4v1.28zM6 10v1H4v-1h2z"/></svg>
+                <strong class="pl-1">Source code</strong> (tar.gz)
+              </a>
+            </li>
+        </ul>
+      </div>
+
+      <div class="markdown-body">
+        <p>A slightly improved speed of about 2%<br>
+Added option --intensity, sets maximum intensity.<br>
+Added support for configuration files.<br>
+Added option --config, sets the name of the config file.<br>
+Added support for failover servers, through config files.<br>
+Added new values to the api method getstat.<br>
+Added http api you can use <a href="http://127.0.0.1:42000/getstat" rel="nofollow">http://127.0.0.1:42000/getstat</a> address to get statistics.<br>
+Added simple web page with statistics, simply open the api address in the web browser. (Experemental)<br>
+Fixed couple of bugs.</p>
+      </div>
+
+  </div><!-- /.release-body -->
+</div><!-- /.release -->
+
+
+
+
+        
+<div class="release clearfix label-">
+  <div class="release-meta float-left text-right v-align-top">
+
+      <ul class="tag-references mt-2">
+        <li class="d-block mb-1 mr-0">
+          <a href="/nanopool/ewbf-miner/tree/v0.3.3b" class="css-truncate">
+            <svg class="octicon octicon-tag" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.685 1.72a2.49 2.49 0 0 0-1.76-.726H3.48A2.5 2.5 0 0 0 .994 3.48v2.456c0 .656.269 1.292.726 1.76l6.024 6.024a.99.99 0 0 0 1.402 0l4.563-4.563a.99.99 0 0 0 0-1.402L7.685 1.72zM2.366 7.048A1.54 1.54 0 0 1 1.9 5.925V3.48c0-.874.716-1.58 1.58-1.58h2.456c.418 0 .825.159 1.123.467l6.104 6.094-4.702 4.702-6.094-6.114zm.626-4.066h1.989v1.989H2.982V2.982h.01z"/></svg>
+            <span class="css-truncate-target">v0.3.3b</span>
+          </a>
+        </li>
+
+        <li class="d-block mr-0">
+          <a href="/nanopool/ewbf-miner/commit/3ef5b50ecf73b0924841f16ed1d4f7cd484c6063">
+            <svg class="octicon octicon-git-commit" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10.86 7c-.45-1.72-2-3-3.86-3-1.86 0-3.41 1.28-3.86 3H0v2h3.14c.45 1.72 2 3 3.86 3 1.86 0 3.41-1.28 3.86-3H14V7h-3.14zM7 10.2c-1.22 0-2.2-.98-2.2-2.2 0-1.22.98-2.2 2.2-2.2 1.22 0 2.2.98 2.2 2.2 0 1.22-.98 2.2-2.2 2.2z"/></svg>
+            <code>3ef5b50</code>
+          </a>
+        </li>
+      </ul>
+      
+
+  </div><!-- /.meta -->
+
+  <div class="release-body commit open float-left">
+    <div class="release-header">
+
+      <h1 class="release-title text-normal">
+        <a href="/nanopool/ewbf-miner/releases/tag/v0.3.3b">EWBF&#39;s CUDA Zcash miner v0.3.3b</a>
+      </h1>
+      <p class="f5 text-gray mt-1 mb-4">
+        <img class="avatar" src="https://avatars0.githubusercontent.com/u/17878829?s=40&amp;v=4" width="20" height="20" alt="@nanopool" />
+        <a href="/nanopool" class="text-bold text-gray">nanopool</a>
+        released this
+          <relative-time datetime="2017-04-30T22:45:21Z">Apr 30, 2017</relative-time>
+
+      </p>
+    </div>
+
+      <div class="my-4">
+        <h2 class="f3">Assets</h2>
+        <ul class="mt-2">
+            <li class="d-block py-2">
+              <a href="/nanopool/ewbf-miner/releases/download/v0.3.3b/Zec.miner.0.3.3b.Linux.Bin.tar.gz" rel="nofollow">
+                <small class="text-gray float-right">409 KB</small>
+                <svg class="octicon octicon-package text-gray d-inline-block" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1 4.27v7.47c0 .45.3.84.75.97l6.5 1.73c.16.05.34.05.5 0l6.5-1.73c.45-.13.75-.52.75-.97V4.27c0-.45-.3-.84-.75-.97l-6.5-1.74a1.4 1.4 0 0 0-.5 0L1.75 3.3c-.45.13-.75.52-.75.97zm7 9.09l-6-1.59V5l6 1.61v6.75zM2 4l2.5-.67L11 5.06l-2.5.67L2 4zm13 7.77l-6 1.59V6.61l2-.55V8.5l2-.53V5.53L15 5v6.77zm-2-7.24L6.5 2.8l2-.53L15 4l-2 .53z"/></svg>
+                <strong class="pl-1">Zec.miner.0.3.3b.Linux.Bin.tar.gz</strong>
+              </a>
+            </li>
+            <li class="d-block py-2">
+              <a href="/nanopool/ewbf-miner/releases/download/v0.3.3b/Zec.miner.0.3.3b.zip" rel="nofollow">
+                <small class="text-gray float-right">507 KB</small>
+                <svg class="octicon octicon-package text-gray d-inline-block" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1 4.27v7.47c0 .45.3.84.75.97l6.5 1.73c.16.05.34.05.5 0l6.5-1.73c.45-.13.75-.52.75-.97V4.27c0-.45-.3-.84-.75-.97l-6.5-1.74a1.4 1.4 0 0 0-.5 0L1.75 3.3c-.45.13-.75.52-.75.97zm7 9.09l-6-1.59V5l6 1.61v6.75zM2 4l2.5-.67L11 5.06l-2.5.67L2 4zm13 7.77l-6 1.59V6.61l2-.55V8.5l2-.53V5.53L15 5v6.77zm-2-7.24L6.5 2.8l2-.53L15 4l-2 .53z"/></svg>
+                <strong class="pl-1">Zec.miner.0.3.3b.zip</strong>
+              </a>
+            </li>
+
+
+            <li class="d-block py-2">
+              <a href="/nanopool/ewbf-miner/archive/v0.3.3b.zip" rel="nofollow">
+                <svg class="octicon octicon-file-zip text-gray d-inline-block ml-1" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.5 1H1a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V4.5L8.5 1zM11 14H1V2h3v1h1V2h3l3 3v9zM5 4V3h1v1H5zM4 4h1v1H4V4zm1 2V5h1v1H5zM4 6h1v1H4V6zm1 2V7h1v1H5zM4 9.28A2 2 0 0 0 3 11v1h4v-1a2 2 0 0 0-2-2V8H4v1.28zM6 10v1H4v-1h2z"/></svg>
+                <strong class="pl-1">Source code</strong> (zip)
+              </a>
+            </li>
+            <li class="d-block py-2">
+              <a href="/nanopool/ewbf-miner/archive/v0.3.3b.tar.gz" rel="nofollow">
+                <svg class="octicon octicon-file-zip text-gray d-inline-block ml-1" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.5 1H1a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V4.5L8.5 1zM11 14H1V2h3v1h1V2h3l3 3v9zM5 4V3h1v1H5zM4 4h1v1H4V4zm1 2V5h1v1H5zM4 6h1v1H4V6zm1 2V7h1v1H5zM4 9.28A2 2 0 0 0 3 11v1h4v-1a2 2 0 0 0-2-2V8H4v1.28zM6 10v1H4v-1h2z"/></svg>
+                <strong class="pl-1">Source code</strong> (tar.gz)
+              </a>
+            </li>
+        </ul>
+      </div>
+
+      <div class="markdown-body">
+        <p>Added option --pec power efficiency calculator.<br>
+Added option --fee developer fee control.<br>
+Use miner --help command for more information.</p>
+      </div>
+
+  </div><!-- /.release-body -->
+</div><!-- /.release -->
+
+        <ul class="release-timeline-tags list-style-none">
+            <li class="d-block clearfix">
+              
+<span class="date">
+    <relative-time datetime="2017-02-16T09:32:16Z">Feb 16, 2017</relative-time>
+
+  <svg class="octicon octicon-tag" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.685 1.72a2.49 2.49 0 0 0-1.76-.726H3.48A2.5 2.5 0 0 0 .994 3.48v2.456c0 .656.269 1.292.726 1.76l6.024 6.024a.99.99 0 0 0 1.402 0l4.563-4.563a.99.99 0 0 0 0-1.402L7.685 1.72zM2.366 7.048A1.54 1.54 0 0 1 1.9 5.925V3.48c0-.874.716-1.58 1.58-1.58h2.456c.418 0 .825.159 1.123.467l6.104 6.094-4.702 4.702-6.094-6.114zm.626-4.066h1.989v1.989H2.982V2.982h.01z"/></svg>
+</span>
+
+<div class="main">
+  
+
+<div class="tag-info commit js-details-container Details">
+  <h3>
+    <a href="/nanopool/ewbf-miner/releases/tag/v0.3.2b">
+      <span class="tag-name">v0.3.2b</span>
+    </a>
+    <span class="hidden-text-expander inline"><button type="button" aria-expanded="false" class="ellipsis-expander js-details-target" aria-label="Toggle commit message">&hellip;</button></span>
+  </h3>
+
+  <div class="commit-desc">
+    <pre class="text-small text-gray">v0.3.0b
+</pre>
+  </div>
+
+  <ul class="tag-references">
+    <li class="commit">
+      <a href="/nanopool/ewbf-miner/commit/0c821fd3509a0ec56a076f38227bef481c007ee5">
+        <svg class="octicon octicon-git-commit" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10.86 7c-.45-1.72-2-3-3.86-3-1.86 0-3.41 1.28-3.86 3H0v2h3.14c.45 1.72 2 3 3.86 3 1.86 0 3.41-1.28 3.86-3H14V7h-3.14zM7 10.2c-1.22 0-2.2-.98-2.2-2.2 0-1.22.98-2.2 2.2-2.2 1.22 0 2.2.98 2.2 2.2 0 1.22-.98 2.2-2.2 2.2z"/></svg>
+        0c821fd
+      </a>
+    </li>
+
+    <li>
+      <a href="/nanopool/ewbf-miner/archive/v0.3.2b.zip" rel="nofollow">
+        <svg class="octicon octicon-file-zip" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.5 1H1a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V4.5L8.5 1zM11 14H1V2h3v1h1V2h3l3 3v9zM5 4V3h1v1H5zM4 4h1v1H4V4zm1 2V5h1v1H5zM4 6h1v1H4V6zm1 2V7h1v1H5zM4 9.28A2 2 0 0 0 3 11v1h4v-1a2 2 0 0 0-2-2V8H4v1.28zM6 10v1H4v-1h2z"/></svg>
+        zip
+      </a>
+    </li>
+
+    <li>
+      <a href="/nanopool/ewbf-miner/archive/v0.3.2b.tar.gz" rel="nofollow">
+        <svg class="octicon octicon-file-zip" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.5 1H1a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V4.5L8.5 1zM11 14H1V2h3v1h1V2h3l3 3v9zM5 4V3h1v1H5zM4 4h1v1H4V4zm1 2V5h1v1H5zM4 6h1v1H4V6zm1 2V7h1v1H5zM4 9.28A2 2 0 0 0 3 11v1h4v-1a2 2 0 0 0-2-2V8H4v1.28zM6 10v1H4v-1h2z"/></svg>
+        tar.gz
+      </a>
+    </li>
+
+
+  </ul>
+</div>
+
+</div>
+
+            </li>
+        </ul>
+
+
+
+
+
+
+        
+<div class="release clearfix label-">
+  <div class="release-meta float-left text-right v-align-top">
+
+      <ul class="tag-references mt-2">
+        <li class="d-block mb-1 mr-0">
+          <a href="/nanopool/ewbf-miner/tree/v0.3.0b" class="css-truncate">
+            <svg class="octicon octicon-tag" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.685 1.72a2.49 2.49 0 0 0-1.76-.726H3.48A2.5 2.5 0 0 0 .994 3.48v2.456c0 .656.269 1.292.726 1.76l6.024 6.024a.99.99 0 0 0 1.402 0l4.563-4.563a.99.99 0 0 0 0-1.402L7.685 1.72zM2.366 7.048A1.54 1.54 0 0 1 1.9 5.925V3.48c0-.874.716-1.58 1.58-1.58h2.456c.418 0 .825.159 1.123.467l6.104 6.094-4.702 4.702-6.094-6.114zm.626-4.066h1.989v1.989H2.982V2.982h.01z"/></svg>
+            <span class="css-truncate-target">v0.3.0b</span>
+          </a>
+        </li>
+
+        <li class="d-block mr-0">
+          <a href="/nanopool/ewbf-miner/commit/b5b33ca0e129111d80ffaeeba249232e5ad2793d">
+            <svg class="octicon octicon-git-commit" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10.86 7c-.45-1.72-2-3-3.86-3-1.86 0-3.41 1.28-3.86 3H0v2h3.14c.45 1.72 2 3 3.86 3 1.86 0 3.41-1.28 3.86-3H14V7h-3.14zM7 10.2c-1.22 0-2.2-.98-2.2-2.2 0-1.22.98-2.2 2.2-2.2 1.22 0 2.2.98 2.2 2.2 0 1.22-.98 2.2-2.2 2.2z"/></svg>
+            <code>b5b33ca</code>
+          </a>
+        </li>
+      </ul>
+      
+
+  </div><!-- /.meta -->
+
+  <div class="release-body commit open float-left">
+    <div class="release-header">
+
+      <h1 class="release-title text-normal">
+        <a href="/nanopool/ewbf-miner/releases/tag/v0.3.0b">EWBF&#39;s CUDA Zcash miner v0.3.0b</a>
+      </h1>
+      <p class="f5 text-gray mt-1 mb-4">
+        <img class="avatar" src="https://avatars0.githubusercontent.com/u/17878829?s=40&amp;v=4" width="20" height="20" alt="@nanopool" />
+        <a href="/nanopool" class="text-bold text-gray">nanopool</a>
+        released this
+          <relative-time datetime="2017-02-16T09:31:08Z">Feb 16, 2017</relative-time>
+
+          &middot;
+
+          <a href="/nanopool/ewbf-miner/compare/v0.3.0b...master">
+            2 commits</a>
+          to master
+          since this release
+      </p>
+    </div>
+
+      <div class="my-4">
+        <h2 class="f3">Assets</h2>
+        <ul class="mt-2">
+            <li class="d-block py-2">
+              <a href="/nanopool/ewbf-miner/releases/download/v0.3.0b/Zec.miner.0.3.0b.Linux.Bin.tar.gz" rel="nofollow">
+                <small class="text-gray float-right">723 KB</small>
+                <svg class="octicon octicon-package text-gray d-inline-block" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1 4.27v7.47c0 .45.3.84.75.97l6.5 1.73c.16.05.34.05.5 0l6.5-1.73c.45-.13.75-.52.75-.97V4.27c0-.45-.3-.84-.75-.97l-6.5-1.74a1.4 1.4 0 0 0-.5 0L1.75 3.3c-.45.13-.75.52-.75.97zm7 9.09l-6-1.59V5l6 1.61v6.75zM2 4l2.5-.67L11 5.06l-2.5.67L2 4zm13 7.77l-6 1.59V6.61l2-.55V8.5l2-.53V5.53L15 5v6.77zm-2-7.24L6.5 2.8l2-.53L15 4l-2 .53z"/></svg>
+                <strong class="pl-1">Zec.miner.0.3.0b.Linux.Bin.tar.gz</strong>
+              </a>
+            </li>
+            <li class="d-block py-2">
+              <a href="/nanopool/ewbf-miner/releases/download/v0.3.0b/Zec.miner.0.3.0b.zip" rel="nofollow">
+                <small class="text-gray float-right">824 KB</small>
+                <svg class="octicon octicon-package text-gray d-inline-block" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1 4.27v7.47c0 .45.3.84.75.97l6.5 1.73c.16.05.34.05.5 0l6.5-1.73c.45-.13.75-.52.75-.97V4.27c0-.45-.3-.84-.75-.97l-6.5-1.74a1.4 1.4 0 0 0-.5 0L1.75 3.3c-.45.13-.75.52-.75.97zm7 9.09l-6-1.59V5l6 1.61v6.75zM2 4l2.5-.67L11 5.06l-2.5.67L2 4zm13 7.77l-6 1.59V6.61l2-.55V8.5l2-.53V5.53L15 5v6.77zm-2-7.24L6.5 2.8l2-.53L15 4l-2 .53z"/></svg>
+                <strong class="pl-1">Zec.miner.0.3.0b.zip</strong>
+              </a>
+            </li>
+
+
+            <li class="d-block py-2">
+              <a href="/nanopool/ewbf-miner/archive/v0.3.0b.zip" rel="nofollow">
+                <svg class="octicon octicon-file-zip text-gray d-inline-block ml-1" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.5 1H1a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V4.5L8.5 1zM11 14H1V2h3v1h1V2h3l3 3v9zM5 4V3h1v1H5zM4 4h1v1H4V4zm1 2V5h1v1H5zM4 6h1v1H4V6zm1 2V7h1v1H5zM4 9.28A2 2 0 0 0 3 11v1h4v-1a2 2 0 0 0-2-2V8H4v1.28zM6 10v1H4v-1h2z"/></svg>
+                <strong class="pl-1">Source code</strong> (zip)
+              </a>
+            </li>
+            <li class="d-block py-2">
+              <a href="/nanopool/ewbf-miner/archive/v0.3.0b.tar.gz" rel="nofollow">
+                <svg class="octicon octicon-file-zip text-gray d-inline-block ml-1" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.5 1H1a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V4.5L8.5 1zM11 14H1V2h3v1h1V2h3l3 3v9zM5 4V3h1v1H5zM4 4h1v1H4V4zm1 2V5h1v1H5zM4 6h1v1H4V6zm1 2V7h1v1H5zM4 9.28A2 2 0 0 0 3 11v1h4v-1a2 2 0 0 0-2-2V8H4v1.28zM6 10v1H4v-1h2z"/></svg>
+                <strong class="pl-1">Source code</strong> (tar.gz)
+              </a>
+            </li>
+        </ul>
+      </div>
+
+      <div class="markdown-body">
+        <ul>
+<li>Integrated nvml (NVIDIA Management Library) for temperature monitoring.</li>
+<li>Added option --templimit for set max gpu temperature.</li>
+<li>Added option --logfile for custom file name.</li>
+<li>Added option --api simple json based api.</li>
+<li>Option --solver now allow you to set solvers for different devices.</li>
+<li>Optimizations up to 2% depends on cards.</li>
+<li>See file Help.txt for more detailed help.</li>
+</ul>
+      </div>
+
+  </div><!-- /.release-body -->
+</div><!-- /.release -->
+
+
+
+
+        
+<div class="release clearfix label-">
+  <div class="release-meta float-left text-right v-align-top">
+
+      <ul class="tag-references mt-2">
+        <li class="d-block mb-1 mr-0">
+          <a href="/nanopool/ewbf-miner/tree/v0.2.0b" class="css-truncate">
+            <svg class="octicon octicon-tag" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.685 1.72a2.49 2.49 0 0 0-1.76-.726H3.48A2.5 2.5 0 0 0 .994 3.48v2.456c0 .656.269 1.292.726 1.76l6.024 6.024a.99.99 0 0 0 1.402 0l4.563-4.563a.99.99 0 0 0 0-1.402L7.685 1.72zM2.366 7.048A1.54 1.54 0 0 1 1.9 5.925V3.48c0-.874.716-1.58 1.58-1.58h2.456c.418 0 .825.159 1.123.467l6.104 6.094-4.702 4.702-6.094-6.114zm.626-4.066h1.989v1.989H2.982V2.982h.01z"/></svg>
+            <span class="css-truncate-target">v0.2.0b</span>
+          </a>
+        </li>
+
+        <li class="d-block mr-0">
+          <a href="/nanopool/ewbf-miner/commit/8c796fe8b9075210f30923c19b682648ab2253f9">
+            <svg class="octicon octicon-git-commit" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10.86 7c-.45-1.72-2-3-3.86-3-1.86 0-3.41 1.28-3.86 3H0v2h3.14c.45 1.72 2 3 3.86 3 1.86 0 3.41-1.28 3.86-3H14V7h-3.14zM7 10.2c-1.22 0-2.2-.98-2.2-2.2 0-1.22.98-2.2 2.2-2.2 1.22 0 2.2.98 2.2 2.2 0 1.22-.98 2.2-2.2 2.2z"/></svg>
+            <code>8c796fe</code>
+          </a>
+        </li>
+      </ul>
+      
+
+  </div><!-- /.meta -->
+
+  <div class="release-body commit open float-left">
+    <div class="release-header">
+
+      <h1 class="release-title text-normal">
+        <a href="/nanopool/ewbf-miner/releases/tag/v0.2.0b">EWBF&#39;s CUDA Zcash miner v0.2.0b</a>
+      </h1>
+      <p class="f5 text-gray mt-1 mb-4">
+        <img class="avatar" src="https://avatars0.githubusercontent.com/u/17878829?s=40&amp;v=4" width="20" height="20" alt="@nanopool" />
+        <a href="/nanopool" class="text-bold text-gray">nanopool</a>
+        released this
+          <relative-time datetime="2017-01-17T21:27:58Z">Jan 17, 2017</relative-time>
+
+          &middot;
+
+          <a href="/nanopool/ewbf-miner/compare/v0.2.0b...master">
+            3 commits</a>
+          to master
+          since this release
+      </p>
+    </div>
+
+      <div class="my-4">
+        <h2 class="f3">Assets</h2>
+        <ul class="mt-2">
+            <li class="d-block py-2">
+              <a href="/nanopool/ewbf-miner/releases/download/v0.2.0b/Zec.miner.0.2.0b.Linux.Bin.tar.gz" rel="nofollow">
+                <small class="text-gray float-right">418 KB</small>
+                <svg class="octicon octicon-package text-gray d-inline-block" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1 4.27v7.47c0 .45.3.84.75.97l6.5 1.73c.16.05.34.05.5 0l6.5-1.73c.45-.13.75-.52.75-.97V4.27c0-.45-.3-.84-.75-.97l-6.5-1.74a1.4 1.4 0 0 0-.5 0L1.75 3.3c-.45.13-.75.52-.75.97zm7 9.09l-6-1.59V5l6 1.61v6.75zM2 4l2.5-.67L11 5.06l-2.5.67L2 4zm13 7.77l-6 1.59V6.61l2-.55V8.5l2-.53V5.53L15 5v6.77zm-2-7.24L6.5 2.8l2-.53L15 4l-2 .53z"/></svg>
+                <strong class="pl-1">Zec.miner.0.2.0b.Linux.Bin.tar.gz</strong>
+              </a>
+            </li>
+            <li class="d-block py-2">
+              <a href="/nanopool/ewbf-miner/releases/download/v0.2.0b/Zec.miner.0.2.0b.zip" rel="nofollow">
+                <small class="text-gray float-right">717 KB</small>
+                <svg class="octicon octicon-package text-gray d-inline-block" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1 4.27v7.47c0 .45.3.84.75.97l6.5 1.73c.16.05.34.05.5 0l6.5-1.73c.45-.13.75-.52.75-.97V4.27c0-.45-.3-.84-.75-.97l-6.5-1.74a1.4 1.4 0 0 0-.5 0L1.75 3.3c-.45.13-.75.52-.75.97zm7 9.09l-6-1.59V5l6 1.61v6.75zM2 4l2.5-.67L11 5.06l-2.5.67L2 4zm13 7.77l-6 1.59V6.61l2-.55V8.5l2-.53V5.53L15 5v6.77zm-2-7.24L6.5 2.8l2-.53L15 4l-2 .53z"/></svg>
+                <strong class="pl-1">Zec.miner.0.2.0b.zip</strong>
+              </a>
+            </li>
+
+
+            <li class="d-block py-2">
+              <a href="/nanopool/ewbf-miner/archive/v0.2.0b.zip" rel="nofollow">
+                <svg class="octicon octicon-file-zip text-gray d-inline-block ml-1" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.5 1H1a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V4.5L8.5 1zM11 14H1V2h3v1h1V2h3l3 3v9zM5 4V3h1v1H5zM4 4h1v1H4V4zm1 2V5h1v1H5zM4 6h1v1H4V6zm1 2V7h1v1H5zM4 9.28A2 2 0 0 0 3 11v1h4v-1a2 2 0 0 0-2-2V8H4v1.28zM6 10v1H4v-1h2z"/></svg>
+                <strong class="pl-1">Source code</strong> (zip)
+              </a>
+            </li>
+            <li class="d-block py-2">
+              <a href="/nanopool/ewbf-miner/archive/v0.2.0b.tar.gz" rel="nofollow">
+                <svg class="octicon octicon-file-zip text-gray d-inline-block ml-1" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.5 1H1a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V4.5L8.5 1zM11 14H1V2h3v1h1V2h3l3 3v9zM5 4V3h1v1H5zM4 4h1v1H4V4zm1 2V5h1v1H5zM4 6h1v1H4V6zm1 2V7h1v1H5zM4 9.28A2 2 0 0 0 3 11v1h4v-1a2 2 0 0 0-2-2V8H4v1.28zM6 10v1H4v-1h2z"/></svg>
+                <strong class="pl-1">Source code</strong> (tar.gz)
+              </a>
+            </li>
+        </ul>
+      </div>
+
+      <div class="markdown-body">
+        <ul>
+<li>Added three additional solvers.</li>
+<li>Added benchmark which test each solver on miner start and select fastest for each card.</li>
+<li>Added option --solver to manual solver selection.</li>
+<li>Added option --eexit to exit when the miner fails, it will allow you to use a script to automatically restart or perform other actions</li>
+<li>Added option --log logging to a file.<br>
+Minor optimizations of solvers and working loop as a result 1 - 4% speed increase depends on card model.<br>
+Thanks to new solvers now this version must work with old gpus better.<br>
+For more info about new options see help -h for short explanation and examples.</li>
+</ul>
+      </div>
+
+  </div><!-- /.release-body -->
+</div><!-- /.release -->
+
+
+
+
+        
+<div class="release clearfix label-">
+  <div class="release-meta float-left text-right v-align-top">
+
+      <ul class="tag-references mt-2">
+        <li class="d-block mb-1 mr-0">
+          <a href="/nanopool/ewbf-miner/tree/v0.1.0b" class="css-truncate">
+            <svg class="octicon octicon-tag" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.685 1.72a2.49 2.49 0 0 0-1.76-.726H3.48A2.5 2.5 0 0 0 .994 3.48v2.456c0 .656.269 1.292.726 1.76l6.024 6.024a.99.99 0 0 0 1.402 0l4.563-4.563a.99.99 0 0 0 0-1.402L7.685 1.72zM2.366 7.048A1.54 1.54 0 0 1 1.9 5.925V3.48c0-.874.716-1.58 1.58-1.58h2.456c.418 0 .825.159 1.123.467l6.104 6.094-4.702 4.702-6.094-6.114zm.626-4.066h1.989v1.989H2.982V2.982h.01z"/></svg>
+            <span class="css-truncate-target">v0.1.0b</span>
+          </a>
+        </li>
+
+        <li class="d-block mr-0">
+          <a href="/nanopool/ewbf-miner/commit/f04470e85a14d6e58d29ed9e531f23772bd729b5">
+            <svg class="octicon octicon-git-commit" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10.86 7c-.45-1.72-2-3-3.86-3-1.86 0-3.41 1.28-3.86 3H0v2h3.14c.45 1.72 2 3 3.86 3 1.86 0 3.41-1.28 3.86-3H14V7h-3.14zM7 10.2c-1.22 0-2.2-.98-2.2-2.2 0-1.22.98-2.2 2.2-2.2 1.22 0 2.2.98 2.2 2.2 0 1.22-.98 2.2-2.2 2.2z"/></svg>
+            <code>f04470e</code>
+          </a>
+        </li>
+      </ul>
+      
+
+  </div><!-- /.meta -->
+
+  <div class="release-body commit open float-left">
+    <div class="release-header">
+
+      <h1 class="release-title text-normal">
+        <a href="/nanopool/ewbf-miner/releases/tag/v0.1.0b">EWBF&#39;s CUDA Zcash miner v0.1.0b</a>
+      </h1>
+      <p class="f5 text-gray mt-1 mb-4">
+        <img class="avatar" src="https://avatars0.githubusercontent.com/u/17878829?s=40&amp;v=4" width="20" height="20" alt="@nanopool" />
+        <a href="/nanopool" class="text-bold text-gray">nanopool</a>
+        released this
+          <relative-time datetime="2017-01-06T20:20:06Z">Jan 6, 2017</relative-time>
+
+          &middot;
+
+          <a href="/nanopool/ewbf-miner/compare/v0.1.0b...master">
+            4 commits</a>
+          to master
+          since this release
+      </p>
+    </div>
+
+      <div class="my-4">
+        <h2 class="f3">Assets</h2>
+        <ul class="mt-2">
+            <li class="d-block py-2">
+              <a href="/nanopool/ewbf-miner/releases/download/v0.1.0b/Zec.miner.0.1.0b.Linux.Bin.tar.gz" rel="nofollow">
+                <small class="text-gray float-right">250 KB</small>
+                <svg class="octicon octicon-package text-gray d-inline-block" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1 4.27v7.47c0 .45.3.84.75.97l6.5 1.73c.16.05.34.05.5 0l6.5-1.73c.45-.13.75-.52.75-.97V4.27c0-.45-.3-.84-.75-.97l-6.5-1.74a1.4 1.4 0 0 0-.5 0L1.75 3.3c-.45.13-.75.52-.75.97zm7 9.09l-6-1.59V5l6 1.61v6.75zM2 4l2.5-.67L11 5.06l-2.5.67L2 4zm13 7.77l-6 1.59V6.61l2-.55V8.5l2-.53V5.53L15 5v6.77zm-2-7.24L6.5 2.8l2-.53L15 4l-2 .53z"/></svg>
+                <strong class="pl-1">Zec.miner.0.1.0b.Linux.Bin.tar.gz</strong>
+              </a>
+            </li>
+            <li class="d-block py-2">
+              <a href="/nanopool/ewbf-miner/releases/download/v0.1.0b/Zec.miner.0.1.0b.zip" rel="nofollow">
+                <small class="text-gray float-right">347 KB</small>
+                <svg class="octicon octicon-package text-gray d-inline-block" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1 4.27v7.47c0 .45.3.84.75.97l6.5 1.73c.16.05.34.05.5 0l6.5-1.73c.45-.13.75-.52.75-.97V4.27c0-.45-.3-.84-.75-.97l-6.5-1.74a1.4 1.4 0 0 0-.5 0L1.75 3.3c-.45.13-.75.52-.75.97zm7 9.09l-6-1.59V5l6 1.61v6.75zM2 4l2.5-.67L11 5.06l-2.5.67L2 4zm13 7.77l-6 1.59V6.61l2-.55V8.5l2-.53V5.53L15 5v6.77zm-2-7.24L6.5 2.8l2-.53L15 4l-2 .53z"/></svg>
+                <strong class="pl-1">Zec.miner.0.1.0b.zip</strong>
+              </a>
+            </li>
+
+
+            <li class="d-block py-2">
+              <a href="/nanopool/ewbf-miner/archive/v0.1.0b.zip" rel="nofollow">
+                <svg class="octicon octicon-file-zip text-gray d-inline-block ml-1" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.5 1H1a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V4.5L8.5 1zM11 14H1V2h3v1h1V2h3l3 3v9zM5 4V3h1v1H5zM4 4h1v1H4V4zm1 2V5h1v1H5zM4 6h1v1H4V6zm1 2V7h1v1H5zM4 9.28A2 2 0 0 0 3 11v1h4v-1a2 2 0 0 0-2-2V8H4v1.28zM6 10v1H4v-1h2z"/></svg>
+                <strong class="pl-1">Source code</strong> (zip)
+              </a>
+            </li>
+            <li class="d-block py-2">
+              <a href="/nanopool/ewbf-miner/archive/v0.1.0b.tar.gz" rel="nofollow">
+                <svg class="octicon octicon-file-zip text-gray d-inline-block ml-1" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.5 1H1a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V4.5L8.5 1zM11 14H1V2h3v1h1V2h3l3 3v9zM5 4V3h1v1H5zM4 4h1v1H4V4zm1 2V5h1v1H5zM4 6h1v1H4V6zm1 2V7h1v1H5zM4 9.28A2 2 0 0 0 3 11v1h4v-1a2 2 0 0 0-2-2V8H4v1.28zM6 10v1H4v-1h2z"/></svg>
+                <strong class="pl-1">Source code</strong> (tar.gz)
+              </a>
+            </li>
+        </ul>
+      </div>
+
+      <div class="markdown-body">
+        <ul>
+<li>Speed increase 2 - 5%</li>
+<li>For old cards compute capabilities 2.x 3.x try version 0.0.6b it can be faster.</li>
+</ul>
+      </div>
+
+  </div><!-- /.release-body -->
+</div><!-- /.release -->
+
+
+
+
+        
+<div class="release clearfix label-">
+  <div class="release-meta float-left text-right v-align-top">
+
+      <ul class="tag-references mt-2">
+        <li class="d-block mb-1 mr-0">
+          <a href="/nanopool/ewbf-miner/tree/v0.0.9b" class="css-truncate">
+            <svg class="octicon octicon-tag" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.685 1.72a2.49 2.49 0 0 0-1.76-.726H3.48A2.5 2.5 0 0 0 .994 3.48v2.456c0 .656.269 1.292.726 1.76l6.024 6.024a.99.99 0 0 0 1.402 0l4.563-4.563a.99.99 0 0 0 0-1.402L7.685 1.72zM2.366 7.048A1.54 1.54 0 0 1 1.9 5.925V3.48c0-.874.716-1.58 1.58-1.58h2.456c.418 0 .825.159 1.123.467l6.104 6.094-4.702 4.702-6.094-6.114zm.626-4.066h1.989v1.989H2.982V2.982h.01z"/></svg>
+            <span class="css-truncate-target">v0.0.9b</span>
+          </a>
+        </li>
+
+        <li class="d-block mr-0">
+          <a href="/nanopool/ewbf-miner/commit/5ab040f9cc96f41b00dd5bbbacd567c9592ee7be">
+            <svg class="octicon octicon-git-commit" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10.86 7c-.45-1.72-2-3-3.86-3-1.86 0-3.41 1.28-3.86 3H0v2h3.14c.45 1.72 2 3 3.86 3 1.86 0 3.41-1.28 3.86-3H14V7h-3.14zM7 10.2c-1.22 0-2.2-.98-2.2-2.2 0-1.22.98-2.2 2.2-2.2 1.22 0 2.2.98 2.2 2.2 0 1.22-.98 2.2-2.2 2.2z"/></svg>
+            <code>5ab040f</code>
+          </a>
+        </li>
+      </ul>
+      
+
+  </div><!-- /.meta -->
+
+  <div class="release-body commit open float-left">
+    <div class="release-header">
+
+      <h1 class="release-title text-normal">
+        <a href="/nanopool/ewbf-miner/releases/tag/v0.0.9b">EWBF&#39;s CUDA Zcash miner v0.0.9b</a>
+      </h1>
+      <p class="f5 text-gray mt-1 mb-4">
+        <img class="avatar" src="https://avatars0.githubusercontent.com/u/17878829?s=40&amp;v=4" width="20" height="20" alt="@nanopool" />
+        <a href="/nanopool" class="text-bold text-gray">nanopool</a>
+        released this
+          <relative-time datetime="2017-01-04T09:15:50Z">Jan 4, 2017</relative-time>
+
+          &middot;
+
+          <a href="/nanopool/ewbf-miner/compare/v0.0.9b...master">
+            6 commits</a>
+          to master
+          since this release
+      </p>
+    </div>
+
+      <div class="my-4">
+        <h2 class="f3">Assets</h2>
+        <ul class="mt-2">
+            <li class="d-block py-2">
+              <a href="/nanopool/ewbf-miner/releases/download/v0.0.9b/Zec.miner.0.0.9b.Linux.Bin.tar.gz" rel="nofollow">
+                <small class="text-gray float-right">255 KB</small>
+                <svg class="octicon octicon-package text-gray d-inline-block" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1 4.27v7.47c0 .45.3.84.75.97l6.5 1.73c.16.05.34.05.5 0l6.5-1.73c.45-.13.75-.52.75-.97V4.27c0-.45-.3-.84-.75-.97l-6.5-1.74a1.4 1.4 0 0 0-.5 0L1.75 3.3c-.45.13-.75.52-.75.97zm7 9.09l-6-1.59V5l6 1.61v6.75zM2 4l2.5-.67L11 5.06l-2.5.67L2 4zm13 7.77l-6 1.59V6.61l2-.55V8.5l2-.53V5.53L15 5v6.77zm-2-7.24L6.5 2.8l2-.53L15 4l-2 .53z"/></svg>
+                <strong class="pl-1">Zec.miner.0.0.9b.Linux.Bin.tar.gz</strong>
+              </a>
+            </li>
+            <li class="d-block py-2">
+              <a href="/nanopool/ewbf-miner/releases/download/v0.0.9b/Zec.miner.0.0.9b.zip" rel="nofollow">
+                <small class="text-gray float-right">342 KB</small>
+                <svg class="octicon octicon-package text-gray d-inline-block" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1 4.27v7.47c0 .45.3.84.75.97l6.5 1.73c.16.05.34.05.5 0l6.5-1.73c.45-.13.75-.52.75-.97V4.27c0-.45-.3-.84-.75-.97l-6.5-1.74a1.4 1.4 0 0 0-.5 0L1.75 3.3c-.45.13-.75.52-.75.97zm7 9.09l-6-1.59V5l6 1.61v6.75zM2 4l2.5-.67L11 5.06l-2.5.67L2 4zm13 7.77l-6 1.59V6.61l2-.55V8.5l2-.53V5.53L15 5v6.77zm-2-7.24L6.5 2.8l2-.53L15 4l-2 .53z"/></svg>
+                <strong class="pl-1">Zec.miner.0.0.9b.zip</strong>
+              </a>
+            </li>
+
+
+            <li class="d-block py-2">
+              <a href="/nanopool/ewbf-miner/archive/v0.0.9b.zip" rel="nofollow">
+                <svg class="octicon octicon-file-zip text-gray d-inline-block ml-1" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.5 1H1a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V4.5L8.5 1zM11 14H1V2h3v1h1V2h3l3 3v9zM5 4V3h1v1H5zM4 4h1v1H4V4zm1 2V5h1v1H5zM4 6h1v1H4V6zm1 2V7h1v1H5zM4 9.28A2 2 0 0 0 3 11v1h4v-1a2 2 0 0 0-2-2V8H4v1.28zM6 10v1H4v-1h2z"/></svg>
+                <strong class="pl-1">Source code</strong> (zip)
+              </a>
+            </li>
+            <li class="d-block py-2">
+              <a href="/nanopool/ewbf-miner/archive/v0.0.9b.tar.gz" rel="nofollow">
+                <svg class="octicon octicon-file-zip text-gray d-inline-block ml-1" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.5 1H1a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V4.5L8.5 1zM11 14H1V2h3v1h1V2h3l3 3v9zM5 4V3h1v1H5zM4 4h1v1H4V4zm1 2V5h1v1H5zM4 6h1v1H4V6zm1 2V7h1v1H5zM4 9.28A2 2 0 0 0 3 11v1h4v-1a2 2 0 0 0-2-2V8H4v1.28zM6 10v1H4v-1h2z"/></svg>
+                <strong class="pl-1">Source code</strong> (tar.gz)
+              </a>
+            </li>
+        </ul>
+      </div>
+
+      <div class="markdown-body">
+        <ul>
+<li>Speed increase to 10%.</li>
+<li>NOTE this version of miner not ready to release but nicehash guys force me to publish it. As a result it can be unstable.</li>
+<li>For old cards compute capabilities 2.x 3.x try version 0.0.6b it can be faster.</li>
+</ul>
+      </div>
+
+  </div><!-- /.release-body -->
+</div><!-- /.release -->
+
+
+
+
+        
+<div class="release clearfix label-">
+  <div class="release-meta float-left text-right v-align-top">
+
+      <ul class="tag-references mt-2">
+        <li class="d-block mb-1 mr-0">
+          <a href="/nanopool/ewbf-miner/tree/v0.0.8b" class="css-truncate">
+            <svg class="octicon octicon-tag" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.685 1.72a2.49 2.49 0 0 0-1.76-.726H3.48A2.5 2.5 0 0 0 .994 3.48v2.456c0 .656.269 1.292.726 1.76l6.024 6.024a.99.99 0 0 0 1.402 0l4.563-4.563a.99.99 0 0 0 0-1.402L7.685 1.72zM2.366 7.048A1.54 1.54 0 0 1 1.9 5.925V3.48c0-.874.716-1.58 1.58-1.58h2.456c.418 0 .825.159 1.123.467l6.104 6.094-4.702 4.702-6.094-6.114zm.626-4.066h1.989v1.989H2.982V2.982h.01z"/></svg>
+            <span class="css-truncate-target">v0.0.8b</span>
+          </a>
+        </li>
+
+        <li class="d-block mr-0">
+          <a href="/nanopool/ewbf-miner/commit/72345762a235357472a2fef9e0a71a147316bc74">
+            <svg class="octicon octicon-git-commit" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10.86 7c-.45-1.72-2-3-3.86-3-1.86 0-3.41 1.28-3.86 3H0v2h3.14c.45 1.72 2 3 3.86 3 1.86 0 3.41-1.28 3.86-3H14V7h-3.14zM7 10.2c-1.22 0-2.2-.98-2.2-2.2 0-1.22.98-2.2 2.2-2.2 1.22 0 2.2.98 2.2 2.2 0 1.22-.98 2.2-2.2 2.2z"/></svg>
+            <code>7234576</code>
+          </a>
+        </li>
+      </ul>
+      
+
+  </div><!-- /.meta -->
+
+  <div class="release-body commit open float-left">
+    <div class="release-header">
+
+      <h1 class="release-title text-normal">
+        <a href="/nanopool/ewbf-miner/releases/tag/v0.0.8b">EWBF&#39;s CUDA Zcash miner v0.0.8b</a>
+      </h1>
+      <p class="f5 text-gray mt-1 mb-4">
+        <img class="avatar" src="https://avatars0.githubusercontent.com/u/17878829?s=40&amp;v=4" width="20" height="20" alt="@nanopool" />
+        <a href="/nanopool" class="text-bold text-gray">nanopool</a>
+        released this
+          <relative-time datetime="2016-12-28T19:23:05Z">Dec 28, 2016</relative-time>
+
+          &middot;
+
+          <a href="/nanopool/ewbf-miner/compare/v0.0.8b...master">
+            7 commits</a>
+          to master
+          since this release
+      </p>
+    </div>
+
+      <div class="my-4">
+        <h2 class="f3">Assets</h2>
+        <ul class="mt-2">
+            <li class="d-block py-2">
+              <a href="/nanopool/ewbf-miner/releases/download/v0.0.8b/Zec.miner.0.0.8b.Linux.Bin.tar.gz" rel="nofollow">
+                <small class="text-gray float-right">241 KB</small>
+                <svg class="octicon octicon-package text-gray d-inline-block" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1 4.27v7.47c0 .45.3.84.75.97l6.5 1.73c.16.05.34.05.5 0l6.5-1.73c.45-.13.75-.52.75-.97V4.27c0-.45-.3-.84-.75-.97l-6.5-1.74a1.4 1.4 0 0 0-.5 0L1.75 3.3c-.45.13-.75.52-.75.97zm7 9.09l-6-1.59V5l6 1.61v6.75zM2 4l2.5-.67L11 5.06l-2.5.67L2 4zm13 7.77l-6 1.59V6.61l2-.55V8.5l2-.53V5.53L15 5v6.77zm-2-7.24L6.5 2.8l2-.53L15 4l-2 .53z"/></svg>
+                <strong class="pl-1">Zec.miner.0.0.8b.Linux.Bin.tar.gz</strong>
+              </a>
+            </li>
+            <li class="d-block py-2">
+              <a href="/nanopool/ewbf-miner/releases/download/v0.0.8b/Zec.miner.0.0.8b.zip" rel="nofollow">
+                <small class="text-gray float-right">339 KB</small>
+                <svg class="octicon octicon-package text-gray d-inline-block" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1 4.27v7.47c0 .45.3.84.75.97l6.5 1.73c.16.05.34.05.5 0l6.5-1.73c.45-.13.75-.52.75-.97V4.27c0-.45-.3-.84-.75-.97l-6.5-1.74a1.4 1.4 0 0 0-.5 0L1.75 3.3c-.45.13-.75.52-.75.97zm7 9.09l-6-1.59V5l6 1.61v6.75zM2 4l2.5-.67L11 5.06l-2.5.67L2 4zm13 7.77l-6 1.59V6.61l2-.55V8.5l2-.53V5.53L15 5v6.77zm-2-7.24L6.5 2.8l2-.53L15 4l-2 .53z"/></svg>
+                <strong class="pl-1">Zec.miner.0.0.8b.zip</strong>
+              </a>
+            </li>
+
+
+            <li class="d-block py-2">
+              <a href="/nanopool/ewbf-miner/archive/v0.0.8b.zip" rel="nofollow">
+                <svg class="octicon octicon-file-zip text-gray d-inline-block ml-1" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.5 1H1a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V4.5L8.5 1zM11 14H1V2h3v1h1V2h3l3 3v9zM5 4V3h1v1H5zM4 4h1v1H4V4zm1 2V5h1v1H5zM4 6h1v1H4V6zm1 2V7h1v1H5zM4 9.28A2 2 0 0 0 3 11v1h4v-1a2 2 0 0 0-2-2V8H4v1.28zM6 10v1H4v-1h2z"/></svg>
+                <strong class="pl-1">Source code</strong> (zip)
+              </a>
+            </li>
+            <li class="d-block py-2">
+              <a href="/nanopool/ewbf-miner/archive/v0.0.8b.tar.gz" rel="nofollow">
+                <svg class="octicon octicon-file-zip text-gray d-inline-block ml-1" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.5 1H1a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V4.5L8.5 1zM11 14H1V2h3v1h1V2h3l3 3v9zM5 4V3h1v1H5zM4 4h1v1H4V4zm1 2V5h1v1H5zM4 6h1v1H4V6zm1 2V7h1v1H5zM4 9.28A2 2 0 0 0 3 11v1h4v-1a2 2 0 0 0-2-2V8H4v1.28zM6 10v1H4v-1h2z"/></svg>
+                <strong class="pl-1">Source code</strong> (tar.gz)
+              </a>
+            </li>
+        </ul>
+      </div>
+
+      <div class="markdown-body">
+        <p>"Cosmetic" optimizations of solver. Increased speed around 2%<br>
+Reduced amount of rejected shares.<br>
+New dynamic intensity system.</p>
+      </div>
+
+  </div><!-- /.release-body -->
+</div><!-- /.release -->
+
+
+
+
+        
+<div class="release clearfix label-">
+  <div class="release-meta float-left text-right v-align-top">
+
+      <ul class="tag-references mt-2">
+        <li class="d-block mb-1 mr-0">
+          <a href="/nanopool/ewbf-miner/tree/v0.0.7b" class="css-truncate">
+            <svg class="octicon octicon-tag" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.685 1.72a2.49 2.49 0 0 0-1.76-.726H3.48A2.5 2.5 0 0 0 .994 3.48v2.456c0 .656.269 1.292.726 1.76l6.024 6.024a.99.99 0 0 0 1.402 0l4.563-4.563a.99.99 0 0 0 0-1.402L7.685 1.72zM2.366 7.048A1.54 1.54 0 0 1 1.9 5.925V3.48c0-.874.716-1.58 1.58-1.58h2.456c.418 0 .825.159 1.123.467l6.104 6.094-4.702 4.702-6.094-6.114zm.626-4.066h1.989v1.989H2.982V2.982h.01z"/></svg>
+            <span class="css-truncate-target">v0.0.7b</span>
+          </a>
+        </li>
+
+        <li class="d-block mr-0">
+          <a href="/nanopool/ewbf-miner/commit/72345762a235357472a2fef9e0a71a147316bc74">
+            <svg class="octicon octicon-git-commit" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10.86 7c-.45-1.72-2-3-3.86-3-1.86 0-3.41 1.28-3.86 3H0v2h3.14c.45 1.72 2 3 3.86 3 1.86 0 3.41-1.28 3.86-3H14V7h-3.14zM7 10.2c-1.22 0-2.2-.98-2.2-2.2 0-1.22.98-2.2 2.2-2.2 1.22 0 2.2.98 2.2 2.2 0 1.22-.98 2.2-2.2 2.2z"/></svg>
+            <code>7234576</code>
+          </a>
+        </li>
+      </ul>
+      
+
+  </div><!-- /.meta -->
+
+  <div class="release-body commit open float-left">
+    <div class="release-header">
+
+      <h1 class="release-title text-normal">
+        <a href="/nanopool/ewbf-miner/releases/tag/v0.0.7b">EWBF&#39;s CUDA Zcash miner v0.0.7b</a>
+      </h1>
+      <p class="f5 text-gray mt-1 mb-4">
+        <img class="avatar" src="https://avatars0.githubusercontent.com/u/17878829?s=40&amp;v=4" width="20" height="20" alt="@nanopool" />
+        <a href="/nanopool" class="text-bold text-gray">nanopool</a>
+        released this
+          <relative-time datetime="2016-12-27T07:53:44Z">Dec 27, 2016</relative-time>
+
+          &middot;
+
+          <a href="/nanopool/ewbf-miner/compare/v0.0.7b...master">
+            7 commits</a>
+          to master
+          since this release
+      </p>
+    </div>
+
+      <div class="my-4">
+        <h2 class="f3">Assets</h2>
+        <ul class="mt-2">
+            <li class="d-block py-2">
+              <a href="/nanopool/ewbf-miner/releases/download/v0.0.7b/Zec.miner.0.0.7b.Linux.Bin.tar.gz" rel="nofollow">
+                <small class="text-gray float-right">241 KB</small>
+                <svg class="octicon octicon-package text-gray d-inline-block" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1 4.27v7.47c0 .45.3.84.75.97l6.5 1.73c.16.05.34.05.5 0l6.5-1.73c.45-.13.75-.52.75-.97V4.27c0-.45-.3-.84-.75-.97l-6.5-1.74a1.4 1.4 0 0 0-.5 0L1.75 3.3c-.45.13-.75.52-.75.97zm7 9.09l-6-1.59V5l6 1.61v6.75zM2 4l2.5-.67L11 5.06l-2.5.67L2 4zm13 7.77l-6 1.59V6.61l2-.55V8.5l2-.53V5.53L15 5v6.77zm-2-7.24L6.5 2.8l2-.53L15 4l-2 .53z"/></svg>
+                <strong class="pl-1">Zec.miner.0.0.7b.Linux.Bin.tar.gz</strong>
+              </a>
+            </li>
+            <li class="d-block py-2">
+              <a href="/nanopool/ewbf-miner/releases/download/v0.0.7b/Zec.miner.0.0.7b.zip" rel="nofollow">
+                <small class="text-gray float-right">244 KB</small>
+                <svg class="octicon octicon-package text-gray d-inline-block" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1 4.27v7.47c0 .45.3.84.75.97l6.5 1.73c.16.05.34.05.5 0l6.5-1.73c.45-.13.75-.52.75-.97V4.27c0-.45-.3-.84-.75-.97l-6.5-1.74a1.4 1.4 0 0 0-.5 0L1.75 3.3c-.45.13-.75.52-.75.97zm7 9.09l-6-1.59V5l6 1.61v6.75zM2 4l2.5-.67L11 5.06l-2.5.67L2 4zm13 7.77l-6 1.59V6.61l2-.55V8.5l2-.53V5.53L15 5v6.77zm-2-7.24L6.5 2.8l2-.53L15 4l-2 .53z"/></svg>
+                <strong class="pl-1">Zec.miner.0.0.7b.zip</strong>
+              </a>
+            </li>
+
+
+            <li class="d-block py-2">
+              <a href="/nanopool/ewbf-miner/archive/v0.0.7b.zip" rel="nofollow">
+                <svg class="octicon octicon-file-zip text-gray d-inline-block ml-1" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.5 1H1a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V4.5L8.5 1zM11 14H1V2h3v1h1V2h3l3 3v9zM5 4V3h1v1H5zM4 4h1v1H4V4zm1 2V5h1v1H5zM4 6h1v1H4V6zm1 2V7h1v1H5zM4 9.28A2 2 0 0 0 3 11v1h4v-1a2 2 0 0 0-2-2V8H4v1.28zM6 10v1H4v-1h2z"/></svg>
+                <strong class="pl-1">Source code</strong> (zip)
+              </a>
+            </li>
+            <li class="d-block py-2">
+              <a href="/nanopool/ewbf-miner/archive/v0.0.7b.tar.gz" rel="nofollow">
+                <svg class="octicon octicon-file-zip text-gray d-inline-block ml-1" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.5 1H1a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V4.5L8.5 1zM11 14H1V2h3v1h1V2h3l3 3v9zM5 4V3h1v1H5zM4 4h1v1H4V4zm1 2V5h1v1H5zM4 6h1v1H4V6zm1 2V7h1v1H5zM4 9.28A2 2 0 0 0 3 11v1h4v-1a2 2 0 0 0-2-2V8H4v1.28zM6 10v1H4v-1h2z"/></svg>
+                <strong class="pl-1">Source code</strong> (tar.gz)
+              </a>
+            </li>
+        </ul>
+      </div>
+
+      <div class="markdown-body">
+        <p>Performance improvements. Old cards may be slower than with version 0.0.6b.<br>
+New solver can be less stable.</p>
+      </div>
+
+  </div><!-- /.release-body -->
+</div><!-- /.release -->
+
+
+
+
+        
+<div class="release clearfix label-">
+  <div class="release-meta float-left text-right v-align-top">
+
+      <ul class="tag-references mt-2">
+        <li class="d-block mb-1 mr-0">
+          <a href="/nanopool/ewbf-miner/tree/v0.0.6b" class="css-truncate">
+            <svg class="octicon octicon-tag" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.685 1.72a2.49 2.49 0 0 0-1.76-.726H3.48A2.5 2.5 0 0 0 .994 3.48v2.456c0 .656.269 1.292.726 1.76l6.024 6.024a.99.99 0 0 0 1.402 0l4.563-4.563a.99.99 0 0 0 0-1.402L7.685 1.72zM2.366 7.048A1.54 1.54 0 0 1 1.9 5.925V3.48c0-.874.716-1.58 1.58-1.58h2.456c.418 0 .825.159 1.123.467l6.104 6.094-4.702 4.702-6.094-6.114zm.626-4.066h1.989v1.989H2.982V2.982h.01z"/></svg>
+            <span class="css-truncate-target">v0.0.6b</span>
+          </a>
+        </li>
+
+        <li class="d-block mr-0">
+          <a href="/nanopool/ewbf-miner/commit/5d2dc19a40e2785dd45d056d14f2f82432187c04">
+            <svg class="octicon octicon-git-commit" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10.86 7c-.45-1.72-2-3-3.86-3-1.86 0-3.41 1.28-3.86 3H0v2h3.14c.45 1.72 2 3 3.86 3 1.86 0 3.41-1.28 3.86-3H14V7h-3.14zM7 10.2c-1.22 0-2.2-.98-2.2-2.2 0-1.22.98-2.2 2.2-2.2 1.22 0 2.2.98 2.2 2.2 0 1.22-.98 2.2-2.2 2.2z"/></svg>
+            <code>5d2dc19</code>
+          </a>
+        </li>
+      </ul>
+      
+
+  </div><!-- /.meta -->
+
+  <div class="release-body commit open float-left">
+    <div class="release-header">
+
+      <h1 class="release-title text-normal">
+        <a href="/nanopool/ewbf-miner/releases/tag/v0.0.6b">EWBF&#39;s CUDA Zcash miner v0.0.6b</a>
+      </h1>
+      <p class="f5 text-gray mt-1 mb-4">
+        <img class="avatar" src="https://avatars0.githubusercontent.com/u/17878829?s=40&amp;v=4" width="20" height="20" alt="@nanopool" />
+        <a href="/nanopool" class="text-bold text-gray">nanopool</a>
+        released this
+          <relative-time datetime="2016-12-21T10:53:23Z">Dec 21, 2016</relative-time>
+
+          &middot;
+
+          <a href="/nanopool/ewbf-miner/compare/v0.0.6b...master">
+            8 commits</a>
+          to master
+          since this release
+      </p>
+    </div>
+
+      <div class="my-4">
+        <h2 class="f3">Assets</h2>
+        <ul class="mt-2">
+            <li class="d-block py-2">
+              <a href="/nanopool/ewbf-miner/releases/download/v0.0.6b/Zec.miner.0.0.6b.Linux.Bin.zip" rel="nofollow">
+                <small class="text-gray float-right">234 KB</small>
+                <svg class="octicon octicon-package text-gray d-inline-block" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1 4.27v7.47c0 .45.3.84.75.97l6.5 1.73c.16.05.34.05.5 0l6.5-1.73c.45-.13.75-.52.75-.97V4.27c0-.45-.3-.84-.75-.97l-6.5-1.74a1.4 1.4 0 0 0-.5 0L1.75 3.3c-.45.13-.75.52-.75.97zm7 9.09l-6-1.59V5l6 1.61v6.75zM2 4l2.5-.67L11 5.06l-2.5.67L2 4zm13 7.77l-6 1.59V6.61l2-.55V8.5l2-.53V5.53L15 5v6.77zm-2-7.24L6.5 2.8l2-.53L15 4l-2 .53z"/></svg>
+                <strong class="pl-1">Zec.miner.0.0.6b.Linux.Bin.zip</strong>
+              </a>
+            </li>
+            <li class="d-block py-2">
+              <a href="/nanopool/ewbf-miner/releases/download/v0.0.6b/Zec.miner.0.0.6b.zip" rel="nofollow">
+                <small class="text-gray float-right">332 KB</small>
+                <svg class="octicon octicon-package text-gray d-inline-block" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1 4.27v7.47c0 .45.3.84.75.97l6.5 1.73c.16.05.34.05.5 0l6.5-1.73c.45-.13.75-.52.75-.97V4.27c0-.45-.3-.84-.75-.97l-6.5-1.74a1.4 1.4 0 0 0-.5 0L1.75 3.3c-.45.13-.75.52-.75.97zm7 9.09l-6-1.59V5l6 1.61v6.75zM2 4l2.5-.67L11 5.06l-2.5.67L2 4zm13 7.77l-6 1.59V6.61l2-.55V8.5l2-.53V5.53L15 5v6.77zm-2-7.24L6.5 2.8l2-.53L15 4l-2 .53z"/></svg>
+                <strong class="pl-1">Zec.miner.0.0.6b.zip</strong>
+              </a>
+            </li>
+
+
+            <li class="d-block py-2">
+              <a href="/nanopool/ewbf-miner/archive/v0.0.6b.zip" rel="nofollow">
+                <svg class="octicon octicon-file-zip text-gray d-inline-block ml-1" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.5 1H1a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V4.5L8.5 1zM11 14H1V2h3v1h1V2h3l3 3v9zM5 4V3h1v1H5zM4 4h1v1H4V4zm1 2V5h1v1H5zM4 6h1v1H4V6zm1 2V7h1v1H5zM4 9.28A2 2 0 0 0 3 11v1h4v-1a2 2 0 0 0-2-2V8H4v1.28zM6 10v1H4v-1h2z"/></svg>
+                <strong class="pl-1">Source code</strong> (zip)
+              </a>
+            </li>
+            <li class="d-block py-2">
+              <a href="/nanopool/ewbf-miner/archive/v0.0.6b.tar.gz" rel="nofollow">
+                <svg class="octicon octicon-file-zip text-gray d-inline-block ml-1" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.5 1H1a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V4.5L8.5 1zM11 14H1V2h3v1h1V2h3l3 3v9zM5 4V3h1v1H5zM4 4h1v1H4V4zm1 2V5h1v1H5zM4 6h1v1H4V6zm1 2V7h1v1H5zM4 9.28A2 2 0 0 0 3 11v1h4v-1a2 2 0 0 0-2-2V8H4v1.28zM6 10v1H4v-1h2z"/></svg>
+                <strong class="pl-1">Source code</strong> (tar.gz)
+              </a>
+            </li>
+        </ul>
+      </div>
+
+      <div class="markdown-body">
+        <ul>
+<li>For some older cards performance improvements up to 10%</li>
+<li>Bug fixes</li>
+</ul>
+      </div>
+
+  </div><!-- /.release-body -->
+</div><!-- /.release -->
+
+
+  </div>
+
+  <div data-pjax class="paginate-container">
+    <div class="pagination"><span class="disabled">Previous</span><a rel="nofollow" href="https://github.com/nanopool/ewbf-miner/releases?after=v0.0.6b">Next</a></div>
+  </div>
+
+  </div>
+  <div class="modal-backdrop js-touch-events"></div>
+</div>
+
+    </div>
+  </div>
+
+  </div>
+
+      
+<div class="footer container-lg px-3" role="contentinfo">
+  <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
+    <ul class="list-style-none d-flex flex-wrap ">
+      <li class="mr-3">&copy; 2018 <span title="0.18775s from unicorn-2222013970-kl705">GitHub</span>, Inc.</li>
+        <li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
+        <li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
+        <li class="mr-3"><a href="https://help.github.com/articles/github-security/" data-ga-click="Footer, go to security, text:security">Security</a></li>
+        <li class="mr-3"><a href="https://status.github.com/" data-ga-click="Footer, go to status, text:status">Status</a></li>
+        <li><a data-ga-click="Footer, go to help, text:help" href="https://help.github.com">Help</a></li>
+    </ul>
+
+    <a aria-label="Homepage" title="GitHub" class="footer-octicon" href="https://github.com">
+      <svg height="24" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="24" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+</a>
+   <ul class="list-style-none d-flex flex-wrap ">
+        <li class="mr-3"><a data-ga-click="Footer, go to contact, text:contact" href="https://github.com/contact">Contact GitHub</a></li>
+      <li class="mr-3"><a href="https://developer.github.com" data-ga-click="Footer, go to api, text:api">API</a></li>
+      <li class="mr-3"><a href="https://training.github.com" data-ga-click="Footer, go to training, text:training">Training</a></li>
+      <li class="mr-3"><a href="https://shop.github.com" data-ga-click="Footer, go to shop, text:shop">Shop</a></li>
+        <li class="mr-3"><a href="https://blog.github.com" data-ga-click="Footer, go to blog, text:blog">Blog</a></li>
+        <li><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
+
+    </ul>
+  </div>
+  <div class="d-flex flex-justify-center pb-6">
+    <span class="f6 text-gray-light"></span>
+  </div>
+</div>
+
+
+
+  <div id="ajax-error-message" class="ajax-error-message flash flash-error">
+    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"/></svg>
+    <button type="button" class="flash-close js-ajax-error-dismiss" aria-label="Dismiss error">
+      <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+    </button>
+    You can’t perform that action at this time.
+  </div>
+
+
+    <script crossorigin="anonymous" integrity="sha512-MWhu3P7Ss2c8wk/fvHCiNZ3LNVjHP4kaHYeO7xXrYQ1lt3MODm9jla1+FhjKVzoXk64jc05569Ia9K3Zq0Fd9Q==" type="application/javascript" src="https://assets-cdn.github.com/assets/compat-1c66c88316e8e9eacfac51af6ff01eac.js"></script>
+    <script crossorigin="anonymous" integrity="sha512-rTmClkyJxuWVxD3HuXtPq/5kD0857EfJF77T++HayvDGIYtxo5/ctJc8dYwYj/wSbAU4pD6iSTbLDMs8uNVtlQ==" type="application/javascript" src="https://assets-cdn.github.com/assets/frameworks-10f86fbecbc74b507bd240fe66202501.js"></script>
+    
+    <script crossorigin="anonymous" async="async" integrity="sha512-9EcoLCQwwKtqyd1QeKfEmlfGvwHa6rkLmTG7pJZ3XOxXrg6DjQEZn64BwtWQd7U+w1wlDjQEg034eMGXe7UwKw==" type="application/javascript" src="https://assets-cdn.github.com/assets/github-7f4968b470dc1cbe57f4ef4397879d33.js"></script>
+    
+    
+    
+  <div class="js-stale-session-flash stale-session-flash flash flash-warn flash-banner d-none">
+    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"/></svg>
+    <span class="signed-in-tab-flash">You signed in with another tab or window. <a href="">Reload</a> to refresh your session.</span>
+    <span class="signed-out-tab-flash">You signed out in another tab or window. <a href="">Reload</a> to refresh your session.</span>
+  </div>
+  <div class="facebox" id="facebox" style="display:none;">
+  <div class="facebox-popup">
+    <div class="facebox-content" role="dialog" aria-labelledby="facebox-header" aria-describedby="facebox-description">
+    </div>
+    <button type="button" class="facebox-close js-facebox-close" aria-label="Close modal">
+      <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+    </button>
+  </div>
+</div>
+
+  <div class="Popover js-hovercard-content position-absolute" style="display: none; outline: none;" tabindex="0">
+  <div class="Popover-message Popover-message--bottom-left Popover-message--large Box box-shadow-large" style="width:360px;">
+  </div>
+</div>
+
+<div id="hovercard-aria-description" class="sr-only">
+  Press h to open a hovercard with more details.
+</div>
+
+
+  </body>
+</html>
+
