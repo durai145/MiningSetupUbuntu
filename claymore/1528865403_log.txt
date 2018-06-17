@@ -1,0 +1,25 @@
+00:50:03:440	35f03740	Check and remove old log files...
+00:50:03:441	35f03740	args: -epool us1.ethpool.org:3333 -ewal 0xD69af2A796A737A103F12d2f0BCC563a13900E6F -epsw x -dpool stratum+tcp://dcr.suprnova.cc:3252 -dwal Redhex.my -dpsw x 
+00:50:03:441	35f03740	
+00:50:03:441	35f03740	ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+00:50:03:441	35f03740	บ                Claymore's Dual GPU Miner - v11.0               บ
+00:50:03:441	35f03740	บ              ETH + DCR/SIA/LBC/PASC/BLAKE2S/KECCAK             บ
+00:50:03:441	35f03740	ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+00:50:03:441	35f03740	
+00:50:03:441	35f03740	b501 
+00:50:03:641	35f03740	You specified default wallet address, it is good for tests only, for normal mining you must change it to your wallet address!
+00:50:03:641	35f03740	ETH: 1 pool is specified
+00:50:03:641	35f03740	Main Ethereum pool is us1.ethpool.org:3333
+00:50:03:641	35f03740	DCR: 1 pool is specified
+00:50:03:642	35f03740	Main Decred pool is dcr.suprnova.cc:3252
+00:50:03:656	35f03740	OpenCL platform: NVIDIA CUDA
+00:50:03:656	35f03740	AMD OpenCL platform not found 
+00:50:03:666	35f03740	CUDA initializing...
+
+00:50:03:666	35f03740	NVIDIA Cards available: 2 
+00:50:03:666	35f03740	CUDA Driver Version/Runtime Version: 9.2/8.0
+00:50:03:670	35f03740	GPU #0: GeForce GTX 1080 Ti, 11178 MB available, 28 compute units, capability: 6.1  (pci bus 14:0:0)
+
+00:50:03:671	35f03740	GPU #1: GeForce GTX 1080 Ti, 11178 MB available, 28 compute units, capability: 6.1  (pci bus 16:0:0)
+
+00:50:03:671	35f03740	Total cards: 2 

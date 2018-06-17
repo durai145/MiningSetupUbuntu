@@ -1,0 +1,10 @@
+23:05:38:395	85eed740	Check and remove old log files...
+23:05:38:395	85eed740	args: -zpool ssl://zec-eu1.nanopool.org:6633 -zwal 0xf9638c00290dfb7bdde8ed8d491528d2c5c7083c -zpsw z 
+23:05:38:395	85eed740	
+23:05:38:395	85eed740	ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+23:05:38:395	85eed740	บ                Claymore's Dual GPU Miner - v11.0               บ
+23:05:38:395	85eed740	บ              ETH + DCR/SIA/LBC/PASC/BLAKE2S/KECCAK             บ
+23:05:38:395	85eed740	ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+23:05:38:395	85eed740	
+23:05:38:395	85eed740	b501 
+23:05:38:595	85eed740	ETH: No pools specified! Specify at least one valid pool in "-epool" parameter. 

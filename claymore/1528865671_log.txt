@@ -1,0 +1,132 @@
+00:54:31:744	1b6d8740	Check and remove old log files...
+00:54:31:744	1b6d8740	args: -epool us1.ethpool.org:3333 -ewal 0xf9638c00290dfb7bdde8ed8d491528d2c5c7083c -epsw x -dpool stratum+tcp://dcr.suprnova.cc:3252 -dwal Redhex.my -dpsw x 
+00:54:31:744	1b6d8740	
+00:54:31:744	1b6d8740	ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+00:54:31:744	1b6d8740	บ                Claymore's Dual GPU Miner - v11.0               บ
+00:54:31:744	1b6d8740	บ              ETH + DCR/SIA/LBC/PASC/BLAKE2S/KECCAK             บ
+00:54:31:744	1b6d8740	ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+00:54:31:744	1b6d8740	
+00:54:31:744	1b6d8740	b501 
+00:54:31:945	1b6d8740	ETH: 1 pool is specified
+00:54:31:945	1b6d8740	Main Ethereum pool is us1.ethpool.org:3333
+00:54:31:945	1b6d8740	DCR: 1 pool is specified
+00:54:31:945	1b6d8740	Main Decred pool is dcr.suprnova.cc:3252
+00:54:31:973	1b6d8740	OpenCL platform: NVIDIA CUDA
+00:54:31:973	1b6d8740	AMD OpenCL platform not found 
+00:54:31:991	1b6d8740	CUDA initializing...
+
+00:54:31:991	1b6d8740	NVIDIA Cards available: 2 
+00:54:31:991	1b6d8740	CUDA Driver Version/Runtime Version: 9.2/8.0
+00:54:31:995	1b6d8740	GPU #0: GeForce GTX 1080 Ti, 11178 MB available, 28 compute units, capability: 6.1  (pci bus 14:0:0)
+
+00:54:31:996	1b6d8740	GPU #1: GeForce GTX 1080 Ti, 11178 MB available, 28 compute units, capability: 6.1  (pci bus 16:0:0)
+
+00:54:31:996	1b6d8740	Total cards: 2 
+00:54:35:997	1b6d8740	No AMD cards in the list, ADL library will not be used.
+00:54:36:002	1b6d8740	NVML version: 9.396.26
+00:54:36:492	dd7fe700	ETH: Stratum - connecting to 'us1.ethpool.org' <35.185.92.48> port 3333
+00:54:36:510	dd7fe700	send: {"worker": "eth1.0", "jsonrpc": "2.0", "params": ["0xf9638c00290dfb7bdde8ed8d491528d2c5c7083c", "x"], "id": 2, "method": "eth_submitLogin"}
+
+00:54:36:511	dd7fe700	ETH: Stratum - Connected (us1.ethpool.org:3333)
+00:54:36:531	dd7fe700	got 39 bytes
+00:54:36:531	dd7fe700	buf: {"id":2,"jsonrpc":"2.0","result":true}
+
+00:54:36:531	dd7fe700	parse packet: 38
+00:54:36:531	dd7fe700	ETH: Authorized
+00:54:36:531	dd7fe700	send: {"worker": "", "jsonrpc": "2.0", "params": [], "id": 3, "method": "eth_getWork"}
+
+00:54:36:531	dd7fe700	new buf size: 0
+00:54:36:551	dd7fe700	got 248 bytes
+00:54:36:551	dd7fe700	buf: {"id":3,"jsonrpc":"2.0","result":["0xf4572b5a39f5fcf01231f4f54a4dd78a951a0cddd111165e242843837d58f530","0x9e61ee571ab2ea417369c478f8b799336c24f1a4d139390c66a4475aae0a3eee","0x0112e0be826d694b2e62d01511f12a6061fbaec8bc02357593e70e52ba","0x583169"]}
+
+00:54:36:551	dd7fe700	parse packet: 247
+00:54:36:551	dd7fe700	ETH: job changed
+00:54:36:551	dd7fe700	new buf size: 0
+00:54:36:591	1b6d8740	DUAL MINING MODE ENABLED: ETHEREUM+DECRED
+00:54:36:591	1b6d8740	ETH: eth-proxy stratum mode
+00:54:36:591	1b6d8740	Watchdog enabled
+00:54:36:591	1b6d8740	Remote management (READ-ONLY MODE) is enabled on port 3333
+00:54:36:591	1b6d8740	
+00:54:36:592	dcdf6700	 DCR: Stratum - connecting to 'dcr.suprnova.cc' <149.202.215.198> port 3252
+00:54:36:594	144c700	Setting DAG epoch #192...
+00:54:36:701	dcdf6700	send: {"id": 1, "method": "mining.subscribe", "params": ["dual 1.0"]}
+
+00:54:36:701	dcdf6700	send: {"id": 5, "method": "mining.extranonce.subscribe", "params": []}
+
+00:54:36:701	dcdf6700	send: {"id": 2, "method": "mining.authorize", "params": ["Redhex.my","x"]}
+
+00:54:36:701	dcdf6700	 DCR: Stratum - Connected (dcr.suprnova.cc:3252)
+00:54:36:822	dcdf6700	got 580 bytes
+00:54:36:822	dcdf6700	buf: {"id":1,"result":[[["mining.notify","deadbeefcafebabe6d34560000000000"]],"05fdd5f7a86374edac51d7d8",12],"error":null}
+{"id":null,"method":"mining.set_difficulty","params":[128]}
+{"id":null,"method":"mining.notify","params":["b17a","fead4d9ae6fadf91e9abbab220839d1df4fcc79e15d0baee0000000100000000","6347e99d56e7b18a7074bce0370e488c998a9fbc247250541281d65871726479d7f72c553c5e929933c5bb25f57fa3570c1f57c0e979810ed52c918963d891d0010082f670259710050000005ba00000952b02199025ce390200000065c603003a1e000087a3205b0000000000000000","05000000",[],"05000000","19022b95","5b20a387",false]}
+
+00:54:36:822	dcdf6700	parse packet: 117
+00:54:36:822	dcdf6700	remove first packet 462
+00:54:36:822	dcdf6700	new buf size: 462
+00:54:36:822	dcdf6700	parse packet: 59
+00:54:36:822	dcdf6700	remove first packet 402
+00:54:36:822	dcdf6700	new buf size: 402
+00:54:36:822	dcdf6700	parse packet: 401
+00:54:36:822	dcdf6700	new buf size: 0
+00:54:36:924	dcdf6700	got 36 bytes
+00:54:36:924	dcdf6700	buf: {"id":2,"result":true,"error":null}
+
+00:54:36:924	dcdf6700	parse packet: 35
+00:54:36:924	dcdf6700	 DCR: Authorized
+00:54:36:924	dcdf6700	new buf size: 0
+00:54:38:679	144c700	Setting DAG epoch #192 for GPU0
+00:54:38:679	c4b700	Setting DAG epoch #192 for GPU1
+00:54:38:679	c4b700	Create GPU buffer for GPU1
+00:54:38:679	144c700	Create GPU buffer for GPU0
+00:54:46:553	dd7fe700	ETH: checking pool connection...
+00:54:46:553	dd7fe700	send: {"worker": "", "jsonrpc": "2.0", "params": [], "id": 3, "method": "eth_getWork"}
+
+00:54:46:571	dd7fe700	got 248 bytes
+00:54:46:571	dd7fe700	buf: {"id":3,"jsonrpc":"2.0","result":["0xf4572b5a39f5fcf01231f4f54a4dd78a951a0cddd111165e242843837d58f530","0x9e61ee571ab2ea417369c478f8b799336c24f1a4d139390c66a4475aae0a3eee","0x0112e0be826d694b2e62d01511f12a6061fbaec8bc02357593e70e52ba","0x583169"]}
+
+00:54:46:571	dd7fe700	parse packet: 247
+00:54:46:571	dd7fe700	ETH: job is the same
+00:54:46:571	dd7fe700	new buf size: 0
+00:54:48:019	dd7fe700	got 248 bytes
+00:54:48:019	dd7fe700	buf: {"id":0,"jsonrpc":"2.0","result":["0x8529deebe52ef565711d43ba863ea116c75a2fa1ab99c003b8851c6bbc387953","0x9e61ee571ab2ea417369c478f8b799336c24f1a4d139390c66a4475aae0a3eee","0x0112e0be826d694b2e62d01511f12a6061fbaec8bc02357593e70e52ba","0x58316a"]}
+
+00:54:48:019	dd7fe700	parse packet: 247
+00:54:48:019	dd7fe700	ETH: job changed
+00:54:48:019	dd7fe700	new buf size: 0
+00:54:48:019	dd7fe700	ETH: 06/13/18-00:54:48 - New job from us1.ethpool.org:3333
+00:54:48:019	dd7fe700	target: 0x0000000112e0be82 (diff: 4000MH), epoch 192(2.50GB)
+00:54:48:019	dd7fe700	ETH - Total Speed: 0.000 Mh/s, Total Shares: 0, Rejected: 0, Time: 00:00
+00:54:48:019	dd7fe700	ETH: GPU0 0.000 Mh/s, GPU1 0.000 Mh/s
+00:54:48:019	dd7fe700	 DCR - Total Speed: 0.000 Mh/s, Total Shares: 0, Rejected: 0
+00:54:48:019	dd7fe700	 DCR: GPU0 0.000 Mh/s, GPU1 0.000 Mh/s
+00:54:50:888	dd7fe700	got 248 bytes
+00:54:50:888	dd7fe700	buf: {"id":0,"jsonrpc":"2.0","result":["0x3cd1d22799f6dd018e0da46421d51463171683f37f3c1c064b12e33bc5001c92","0x9e61ee571ab2ea417369c478f8b799336c24f1a4d139390c66a4475aae0a3eee","0x0112e0be826d694b2e62d01511f12a6061fbaec8bc02357593e70e52ba","0x58316b"]}
+
+00:54:50:888	dd7fe700	parse packet: 247
+00:54:50:889	dd7fe700	ETH: job changed
+00:54:50:889	dd7fe700	new buf size: 0
+00:54:50:889	dd7fe700	ETH: 06/13/18-00:54:50 - New job from us1.ethpool.org:3333
+00:54:50:889	dd7fe700	target: 0x0000000112e0be82 (diff: 4000MH), epoch 192(2.50GB)
+00:54:50:889	dd7fe700	ETH - Total Speed: 0.000 Mh/s, Total Shares: 0, Rejected: 0, Time: 00:00
+00:54:50:889	dd7fe700	ETH: GPU0 0.000 Mh/s, GPU1 0.000 Mh/s
+00:54:50:889	dd7fe700	 DCR - Total Speed: 0.000 Mh/s, Total Shares: 0, Rejected: 0
+00:54:50:889	dd7fe700	 DCR: GPU0 0.000 Mh/s, GPU1 0.000 Mh/s
+00:54:55:181	c4b700	GPU1 DAG creation time - 16295 ms
+00:54:55:181	c4b700	Setting DAG epoch #192 for GPU1 done
+00:54:55:199	dd7fe700	got 248 bytes
+00:54:55:199	dd7fe700	buf: {"id":0,"jsonrpc":"2.0","result":["0x069d6cc8af6f2515803fd5f8127d4a56c989467ee91adb1e8de93ac2cc3e4ef0","0x9e61ee571ab2ea417369c478f8b799336c24f1a4d139390c66a4475aae0a3eee","0x0112e0be826d694b2e62d01511f12a6061fbaec8bc02357593e70e52ba","0x58316c"]}
+
+00:54:55:199	dd7fe700	parse packet: 247
+00:54:55:199	dd7fe700	ETH: job changed
+00:54:55:199	dd7fe700	new buf size: 0
+00:54:55:199	dd7fe700	ETH: 06/13/18-00:54:55 - New job from us1.ethpool.org:3333
+00:54:55:199	dd7fe700	target: 0x0000000112e0be82 (diff: 4000MH), epoch 192(2.50GB)
+00:54:55:199	dd7fe700	ETH - Total Speed: 0.000 Mh/s, Total Shares: 0, Rejected: 0, Time: 00:00
+00:54:55:199	dd7fe700	ETH: GPU0 0.000 Mh/s, GPU1 0.000 Mh/s
+00:54:55:199	dd7fe700	 DCR - Total Speed: 0.000 Mh/s, Total Shares: 0, Rejected: 0
+00:54:55:199	dd7fe700	 DCR: GPU0 0.000 Mh/s, GPU1 0.000 Mh/s
+00:54:55:247	144c700	GPU0 DAG creation time - 16357 ms
+00:54:55:247	144c700	Setting DAG epoch #192 for GPU0 done
+00:54:56:243	1b6d8740	Quit signal received...
+00:54:56:344	1b6d8740	Quit, please wait...

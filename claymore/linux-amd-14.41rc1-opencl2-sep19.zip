@@ -1,0 +1,761 @@
+<html dir="ltr" class="ms-isBot" lang="en-US">
+	<head><meta http-equiv="X-UA-Compatible" content="IE=10" /><meta name="GENERATOR" content="Microsoft SharePoint" /><meta http-equiv="Content-type" content="text/html; charset=utf-8" /><meta http-equiv="Expires" content="0" /><meta name="viewport" content="width=device-width; initial-scale=1.0; user-scalable=1;" /><meta name="msapplication-TileColor" content="#000000" /><meta name="msapplication-square70x70logo" content="/PublishingImages/logos/corporate/windowstile/tiny.png" /><meta name="msapplication-square150x150logo" content="/PublishingImages/logos/corporate/windowstile/square.png" /><meta name="msapplication-wide310x150logo" content="/PublishingImages/logos/corporate/windowstile/wide.png" /><meta name="msapplication-square310x310logo" content="/PublishingImages/logos/corporate/windowstile/large.png" /><meta name="msapplication-starturl" content="http://support.amd.com/" /><meta name="msapplication-navbutton-color" content="#000000" /><title>
+	
+	Download Not Complete
+
+</title><link rel="stylesheet" type="text/css" href="/_layouts/15/1033/styles/Themable/corev15.css?rev=2bpHeX9U8DH09TB5zpJcsQ%3D%3D"/>
+<link rel="stylesheet" type="text/css" href="/Style%20Library/en-US/Themable/Core%20Styles/controls15.css"/>
+<link id="CssRegistration1" rel="stylesheet" type="text/css" href="/style%20library/main.css"/>
+<script type="text/javascript" src="/_layouts/15/init.js?rev=Xpo7ARBt8xBROO1h5n3s6g%3D%3D"></script>
+<script type="text/javascript" src="/ScriptResource.axd?d=88mI71qaeoxHHPjmBtutBhJ6ciJXVggVC6q4-UGc6OVV3X73xm8DhYYJud2ua2d_aQc5NnJeksbTHBdOiWujQkoB0Gs703zPn1e1QXu7vyVsqQlsvJD5xjA74XB5QuJ0PgYU-c8a3DWiYUseTOgrATjLirdG-GYgoBhBZ9Fz8Ev5z97y7o-WjD3EjHPQIIyy0&amp;t=72e85ccd"></script>
+<script type="text/javascript" src="/_layouts/15/blank.js?rev=ZaOXZEobVwykPO9g8hq%2F8A%3D%3D"></script>
+<script type="text/javascript">RegisterSod("initstrings.js", "\u002f_layouts\u002f15\u002f1033\u002finitstrings.js?rev=S11vfGURQYVuACMEY0tLTg\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("strings.js", "\u002f_layouts\u002f15\u002f1033\u002fstrings.js?rev=xXYZY4hciX287lShPZuClw\u00253D\u00253D");RegisterSodDep("strings.js", "initstrings.js");</script>
+<script type="text/javascript">RegisterSod("sp.init.js", "\u002f_layouts\u002f15\u002fsp.init.js?rev=jvJC3Kl5gbORaLtf7kxULQ\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("sp.res.resx", "\u002f_layouts\u002f15\u002fScriptResx.ashx?culture=en\u00252Dus\u0026name=SP\u00252ERes\u0026rev=yNk\u00252FhRzgBn40LJVP\u00252BqfgdQ\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("sp.ui.dialog.js", "\u002f_layouts\u002f15\u002fsp.ui.dialog.js?rev=3Oh2QbaaiXSb7ldu2zd6QQ\u00253D\u00253D");RegisterSodDep("sp.ui.dialog.js", "sp.init.js");RegisterSodDep("sp.ui.dialog.js", "sp.res.resx");</script>
+<script type="text/javascript">RegisterSod("core.js", "\u002f_layouts\u002f15\u002fcore.js?rev=GpU7vxyOqzS0F9OfEX3CCw\u00253D\u00253D");RegisterSodDep("core.js", "strings.js");</script>
+<script type="text/javascript">RegisterSod("menu.js", "\u002f_layouts\u002f15\u002fmenu.js?rev=cXv35JACAh0ZCqUwKU592w\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("mQuery.js", "\u002f_layouts\u002f15\u002fmquery.js?rev=VYAJYBo5H8I3gVSL3MzD6A\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("callout.js", "\u002f_layouts\u002f15\u002fcallout.js?rev=ryx2n4ePkYj1\u00252FALmcsXZfA\u00253D\u00253D");RegisterSodDep("callout.js", "strings.js");RegisterSodDep("callout.js", "mQuery.js");RegisterSodDep("callout.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("clienttemplates.js", "\u002f_layouts\u002f15\u002fclienttemplates.js?rev=PBguw1b6TlSAUH8dn\u00252BkIrw\u00253D\u00253D");RegisterSodDep("clienttemplates.js", "initstrings.js");</script>
+<script type="text/javascript">RegisterSod("sharing.js", "\u002f_layouts\u002f15\u002fsharing.js?rev=XxxHIxIIc8BsW9ikVc6dgA\u00253D\u00253D");RegisterSodDep("sharing.js", "strings.js");RegisterSodDep("sharing.js", "mQuery.js");RegisterSodDep("sharing.js", "clienttemplates.js");RegisterSodDep("sharing.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("suitelinks.js", "\u002f_layouts\u002f15\u002fsuitelinks.js?rev=REwVU5jSsadDdOZlCx4wpA\u00253D\u00253D");RegisterSodDep("suitelinks.js", "strings.js");RegisterSodDep("suitelinks.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("sp.runtime.js", "\u002f_layouts\u002f15\u002fsp.runtime.js?rev=5f2WkYJoaxlIRdwUeg4WEg\u00253D\u00253D");RegisterSodDep("sp.runtime.js", "sp.res.resx");</script>
+<script type="text/javascript">RegisterSod("sp.js", "\u002f_layouts\u002f15\u002fsp.js?rev=lrxLgKOmx0nl2elVy0T07w\u00253D\u00253D");RegisterSodDep("sp.js", "sp.runtime.js");RegisterSodDep("sp.js", "sp.ui.dialog.js");RegisterSodDep("sp.js", "sp.res.resx");</script>
+<script type="text/javascript">RegisterSod("cui.js", "\u002f_layouts\u002f15\u002fcui.js?rev=LPKF2\u00252BgWXqwwaFh34pQUlA\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("sp.core.js", "\u002f_layouts\u002f15\u002fsp.core.js?rev=tZDGLPOvY1bRw\u00252BsgzXpxTg\u00253D\u00253D");RegisterSodDep("sp.core.js", "strings.js");RegisterSodDep("sp.core.js", "sp.init.js");RegisterSodDep("sp.core.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("inplview", "\u002f_layouts\u002f15\u002finplview.js?rev=iMf5THfqukSYut7sl9HwUg\u00253D\u00253D");RegisterSodDep("inplview", "strings.js");RegisterSodDep("inplview", "core.js");RegisterSodDep("inplview", "sp.js");</script>
+<script type="text/javascript">RegisterSod("ribbon", "\u002f_layouts\u002f15\u002fsp.ribbon.js?rev=1F3TSGFB5\u00252FyAaRkjYHJL5w\u00253D\u00253D");RegisterSodDep("ribbon", "strings.js");RegisterSodDep("ribbon", "core.js");RegisterSodDep("ribbon", "sp.core.js");RegisterSodDep("ribbon", "sp.js");RegisterSodDep("ribbon", "cui.js");RegisterSodDep("ribbon", "sp.res.resx");RegisterSodDep("ribbon", "sp.runtime.js");RegisterSodDep("ribbon", "inplview");</script>
+<script type="text/javascript">RegisterSod("sp.ui.policy.resources.resx", "\u002f_layouts\u002f15\u002fScriptResx.ashx?culture=en\u00252Dus\u0026name=SP\u00252EUI\u00252EPolicy\u00252EResources\u0026rev=wtVfoqgvnf2cuN894ZirvA\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("mdn.js", "\u002f_layouts\u002f15\u002fmdn.js?rev=CZrBt1\u00252Fch9YeLFLJtB0mvg\u00253D\u00253D");RegisterSodDep("mdn.js", "sp.init.js");RegisterSodDep("mdn.js", "core.js");RegisterSodDep("mdn.js", "sp.runtime.js");RegisterSodDep("mdn.js", "sp.js");RegisterSodDep("mdn.js", "cui.js");RegisterSodDep("mdn.js", "ribbon");RegisterSodDep("mdn.js", "sp.ui.policy.resources.resx");</script>
+<script type="text/javascript">RegisterSod("userprofile", "\u002f_layouts\u002f15\u002fsp.userprofiles.js?rev=p5tCOm\u00252FlHUwcfll7W3pKNw\u00253D\u00253D");RegisterSodDep("userprofile", "sp.runtime.js");</script>
+<script type="text/javascript">RegisterSod("followingcommon.js", "\u002f_layouts\u002f15\u002ffollowingcommon.js?rev=jWqEDmcjCSPmnQw2ZIfItQ\u00253D\u00253D");RegisterSodDep("followingcommon.js", "strings.js");RegisterSodDep("followingcommon.js", "sp.js");RegisterSodDep("followingcommon.js", "userprofile");RegisterSodDep("followingcommon.js", "core.js");RegisterSodDep("followingcommon.js", "mQuery.js");</script>
+<script type="text/javascript">RegisterSod("profilebrowserscriptres.resx", "\u002f_layouts\u002f15\u002fScriptResx.ashx?culture=en\u00252Dus\u0026name=ProfileBrowserScriptRes\u0026rev=J5HzNnB\u00252FO1Id\u00252FGI18rpRcw\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("sp.ui.mysitecommon.js", "\u002f_layouts\u002f15\u002fsp.ui.mysitecommon.js?rev=Ua8qmZSU9nyf53S7PEyJwQ\u00253D\u00253D");RegisterSodDep("sp.ui.mysitecommon.js", "sp.init.js");RegisterSodDep("sp.ui.mysitecommon.js", "sp.runtime.js");RegisterSodDep("sp.ui.mysitecommon.js", "userprofile");RegisterSodDep("sp.ui.mysitecommon.js", "profilebrowserscriptres.resx");</script>
+<script type="text/javascript">RegisterSod("browserScript", "\u002f_layouts\u002f15\u002fnon_ie.js?rev=W2q45TO627Zi6ztdktTOtA\u00253D\u00253D");RegisterSodDep("browserScript", "strings.js");</script>
+<script type="text/javascript">RegisterSod("dragdrop.js", "\u002f_layouts\u002f15\u002fdragdrop.js?rev=xyQu9SPqkjO4R2\u00252BS3IwO8Q\u00253D\u00253D");RegisterSodDep("dragdrop.js", "strings.js");</script>
+<script type="text/javascript">RegisterSod("quicklaunch.js", "\u002f_layouts\u002f15\u002fquicklaunch.js?rev=\u00252BHeX6ARcp\u00252F9LpMq6FqQYyA\u00253D\u00253D");RegisterSodDep("quicklaunch.js", "strings.js");RegisterSodDep("quicklaunch.js", "dragdrop.js");</script>
+<script type="text/javascript">RegisterSod("datepicker.js", "\u002f_layouts\u002f15\u002fdatepicker.js?rev=QSXAxtWIhtEi1Gv0uzsKeg\u00253D\u00253D");RegisterSodDep("datepicker.js", "strings.js");</script>
+<link type="text/xml" rel="alternate" href="/en-us/_vti_bin/spsdisco.aspx" />
+            
+            <link rel="canonical" href="http://support.amd.com:80/en-us/download/incomplete" />
+            
+        <span id="DeltaSPWebPartManager">
+            
+        </span>
+
+		<script type="text/javascript" src="/Style%20Library/js/jquery.min.js"></script>
+		<script type="text/javascript" src="/Style%20Library/js/jquery-migrate-1.2.1.min.js"></script>
+		<script type="text/javascript" src="/Style%20Library/js/jquery.mediaqueries.js"></script>
+		<script type="text/javascript" src="/Style%20Library/js/functions.js"></script>
+		<script type="text/javascript" src="/Style%20Library/js/layout_functions2.js"></script>
+		<script type="text/javascript" src="/Style%20Library/js/jquery.hoverIntent.js"></script>
+		<script type="text/javascript" src="/Style%20Library/js/jquery.easing.1.3.js"></script>
+		<script src="https://use.fontawesome.com/f687f53e7b.js"></script>
+		
+		<link href="https://fonts.googleapis.com/css?family=Noto+Sans:400,700" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="/Style%20Library/drupalnav.css" /><link rel="shortcut icon" href="/Style Library/Images/favicon.ico" />
+
+		<!--
+		<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript" src="http://s.sharethis.com/loader.js"></script>
+	     
+	     BEGIN script for ShareThis functionality 
+	     
+        <script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'ea40568e-2c86-4706-8ff9-5a86034ed940'});</script>
+	    
+	    END script for ShareThis functionality
+        
+        <link rel="stylesheet" type="text/css" href="/Style%20Library/wider.css" media="only screen and (min-width: 1065px)" /><link rel="stylesheet" type="text/css" href="/Style%20Library/smaller.css" media="only screen and (max-width: 1064px)" />
+		-->		
+		<link rel="stylesheet" type="text/css" href="/Style%20Library/main1000.css" media="only screen and (max-width:1000px)" /><link rel="stylesheet" type="text/css" href="/Style%20Library/main640.css" media="only screen and (max-width:640px)" /><link rel="stylesheet" type="text/css" href="/Style%20Library/drupalnav1199.css" media="only screen and (max-width: 1199px) and (min-width: 992px)" /><link rel="stylesheet" type="text/css" href="/Style%20Library/drupalnav1000.css" media="only screen and (max-width:1000px)" />
+
+				
+		<!-- BEGIN Compatibility Code for Chrome -->
+		<script type="text/javascript">
+			function ProcessImn(){}
+			function ProcessImnMarkers(){}
+		</script>
+		<!-- END Compatibility Code for Chrome -->
+
+    </head>
+    <body onhashchange="if (typeof(_spBodyOnHashChange) != 'undefined') _spBodyOnHashChange();">
+    
+	    <!-- SiteCatalyst BOF -->
+		<script language="JavaScript" type="text/javascript" src="https://www.amd.com/us/as/sp2013/custom.js"></script>
+		<script language="JavaScript" type="text/javascript" src="https://www.amd.com/us/as/sp2013/scode_global.js"></script>
+		<script language="JavaScript" type="text/javascript"><!--
+		var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+		<script language="JavaScript" type="text/javascript">
+		<!--
+		if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+		//--></script><noscript><img src="http://metrics.amd.com/b/ss/amdvglobal/1/H.25.5--NS/0"
+		height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+		<!-- SiteCatalyst EOF -->
+		
+		<script language="JavaScript" type="text/javascript">
+			if ($('html').attr('lang').toLowerCase() != 'zh-cn') {
+				document.write('<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-54f9a6366403986c" async="async"><\/script>');
+			} else {
+				document.write('<!-- JiaThis Button BEGIN -->');
+				document.write('<div class="jiathis_share_slide jiathis_share_32x32" id="jiathis_share_slide">');
+				document.write('<div class="jiathis_share_slide_top" id="jiathis_share_title"><\/div>');
+				document.write('<div class="jiathis_share_slide_inner">');
+				document.write('<div class="jiathis_style_32x32">');
+				document.write('<a class="jiathis_button_tsina" name="&LPos=JIAThis&LinkID=sinaweibo"><\/a>');
+				document.write('<a class="jiathis_button_weixin" name="&LPos=JIAThis&LinkID=weixin"><\/a>');							
+				document.write('<a class="jiathis_button_linkedin" name="&LPos=JIAThis&LinkID=linkedin"><\/a>');
+				document.write('<a class="jiathis_button_email" name="&LPos=JIAThis&LinkID=email"><\/a>');
+				document.write('<a class="jiathis_button_print" name="&LPos=JIAThis&LinkID=print"><\/a>');
+				document.write('<script type="text/javascript">var jiathis_config = {slide:{divid:"jiathis_main", pos:"left"}};<\/script>');
+				document.write('<script type="text/javascript" src="http://v3.jiathis.com/code/jia.js" charset="utf-8"><\/script>');
+				document.write('<script type="text/javascript" src="http://v3.jiathis.com/code/jiathis_slide.js" charset="utf-8"><\/script>');
+				document.write('<\/div><\/div><\/div>');
+				document.write('<!-- JiaThis Button END -->');				
+				document.write('<!-- JiaThis Mobile BEGIN -->');
+				document.write('<div class="jiathis_style_m"><\/div>');
+				document.write('<script type="text/javascript" src="http://v3.jiathis.com/code/jiathis_m.js" charset="utf-8"><\/script>');
+				document.write('<!-- JiaThis Mobile END -->');				
+			}
+		</script>
+	
+		
+		
+		<div id="imgPrefetch" style="display:none">
+<img src="/_layouts/15/images/spcommon.png?rev=23" />
+</div>
+
+			<!-- Literal Translation Code removed from next line  -->
+		<form method="post" action="./incomplete?TermStoreId=c397d309-66e8-4ed4-8e24-c7ceb69a40ca&amp;TermSetId=49406cc9-0e26-4ac6-811b-b34bca985bd3&amp;TermId=166601aa-e86f-4b85-a9f8-7eb6740b1954" id="aspnetForm">
+<input type="hidden" name="_wpcmWpid" id="_wpcmWpid" value="" />
+<input type="hidden" name="wpcmVal" id="wpcmVal" value="" />
+<input type="hidden" name="MSOWebPartPage_PostbackSource" id="MSOWebPartPage_PostbackSource" value="" />
+<input type="hidden" name="MSOTlPn_SelectedWpId" id="MSOTlPn_SelectedWpId" value="" />
+<input type="hidden" name="MSOTlPn_View" id="MSOTlPn_View" value="0" />
+<input type="hidden" name="MSOTlPn_ShowSettings" id="MSOTlPn_ShowSettings" value="False" />
+<input type="hidden" name="MSOGallery_SelectedLibrary" id="MSOGallery_SelectedLibrary" value="" />
+<input type="hidden" name="MSOGallery_FilterString" id="MSOGallery_FilterString" value="" />
+<input type="hidden" name="MSOTlPn_Button" id="MSOTlPn_Button" value="none" />
+<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0x18E073D0786222E3A412CD5B125642FA712C6F3B34AB3F1EB5E86B8B92C927E278AD1BE640D77D22A29DC51C8E10A0BD8EED991668CB97E1AF122F574BC35335,11 Jun 2018 17:57:41 -0000" />
+<input type="hidden" name="MSOSPWebPartManager_DisplayModeName" id="MSOSPWebPartManager_DisplayModeName" value="Browse" />
+<input type="hidden" name="MSOSPWebPartManager_ExitingDesignMode" id="MSOSPWebPartManager_ExitingDesignMode" value="false" />
+<input type="hidden" name="MSOWebPartPage_Shared" id="MSOWebPartPage_Shared" value="" />
+<input type="hidden" name="MSOLayout_LayoutChanges" id="MSOLayout_LayoutChanges" value="" />
+<input type="hidden" name="MSOLayout_InDesignMode" id="MSOLayout_InDesignMode" value="" />
+<input type="hidden" name="_wpSelected" id="_wpSelected" value="" />
+<input type="hidden" name="_wzSelected" id="_wzSelected" value="" />
+<input type="hidden" name="MSOSPWebPartManager_OldDisplayModeName" id="MSOSPWebPartManager_OldDisplayModeName" value="Browse" />
+<input type="hidden" name="MSOSPWebPartManager_StartWebPartEditingName" id="MSOSPWebPartManager_StartWebPartEditingName" value="false" />
+<input type="hidden" name="MSOSPWebPartManager_EndWebPartEditing" id="MSOSPWebPartManager_EndWebPartEditing" value="false" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUBMA9kFgJmD2QWAmYPZBYEAgEPZBYGAg0PZBYCZg9kFgICAQ8WAh4TUHJldmlvdXNDb250cm9sTW9kZQspiAFNaWNyb3NvZnQuU2hhcmVQb2ludC5XZWJDb250cm9scy5TUENvbnRyb2xNb2RlLCBNaWNyb3NvZnQuU2hhcmVQb2ludCwgVmVyc2lvbj0xNS4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj03MWU5YmNlMTExZTk0MjljAWQCGQ9kFgICAw9kFgJmD2QWAmYPPCsABgBkAhwPDxYCHgdWaXNpYmxlaGRkAgcPZBYGAgQPZBYCAgIPZBYCAgUPZBYCAgMPFgIfAWgWAmYPZBYEAgIPZBYGAgEPFgIfAWhkAgMPFgIfAWhkAgUPFgIfAWhkAgMPDxYCHglBY2Nlc3NLZXkFAS9kZAISD2QWAgIBD2QWAgINDw8WAh8BaGQWAgIBD2QWAmYPZBYCAgMPZBYCAgUPZBYCAgEPPCsACQEADxYEHg1QYXRoU2VwYXJhdG9yBAgeDU5ldmVyRXhwYW5kZWRnZGQCFg9kFgICAg9kFgoCAw8WAh8ACysEAWQCBQ8WAh8ACysEAWQCCQ8WAh8ACysEARYCZg8PZGRkAgsPFgIfAAsrBAFkAg0PFgIfAAsrBAFkGAEFLWN0bDAwJFBsYWNlSG9sZGVyTGVmdE5hdkJhciRWNFF1aWNrTGF1bmNoTWVudQ8PZAUIRG93bmxvYWRkqB/NFA+BZQpS30qrbygci4AImES8ypWpI8LDlLDX0Pw=" />
+
+
+<script type="text/javascript">
+//<![CDATA[
+var MSOWebPartPageFormName = 'aspnetForm';
+var g_presenceEnabled = true;
+var g_wsaEnabled = false;
+var g_wsaQoSEnabled = false;
+var g_wsaQoSDataPoints = [];
+var g_wsaLCID = 1033;
+var g_wsaListTemplateId = 850;
+var g_wsaSiteTemplateId = 'BLANKINTERNET#2';
+var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002fen-us", webAbsoluteUrl: "http:\u002f\u002fsupport.amd.com\u002fen-us", siteAbsoluteUrl: "http:\u002f\u002fsupport.amd.com", serverRequestPath: "\u002fen-us\u002fPages\u002fDownload-Not-Complete.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "Drivers \u002b Support", webTemplate: "53", tenantAppVersion: "0", isAppWeb: false, webLogoUrl: "_layouts\u002f15\u002fimages\u002fsiteicon.png", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-US", clientServerTimeDelta: new Date("2018-06-11T17:57:41.4748360Z") - new Date(), siteClientTag: "5231$$15.0.5009.1000", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:196673},pageListId:"{e922bc7c-9a1e-4e1f-aca5-388b439f99df}",pageItemId:269, pagePersonalizationScope:1, alertsEnabled:true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True'};document.onreadystatechange=fnRemoveAllStatus; function fnRemoveAllStatus(){removeAllStatus(true)};var dlc_fvsi = {"DefaultViews":[],"ViewUrls":[],"WebUrl":"\/en-us"};
+function _spNavigateHierarchy(nodeDiv, dataSourceId, dataPath, url, listInContext, type) {
+
+    CoreInvoke('ProcessDefaultNavigateHierarchy', nodeDiv, dataSourceId, dataPath, url, listInContext, type, document.forms.aspnetForm, "", "\u002fen-us\u002fdownload\u002fincomplete");
+
+}
+
+                            function DoCallBack(filterText)
+                            {WebForm_DoCallback('ctl00$PlaceHolderMain$ctl02$ctl00',filterText,UpdateFilterCallback,0,CallBackError,true)
+                            }
+                            function CallBackError(result, clientsideString)
+                            {                
+                            }
+                        //]]>
+</script>
+
+<script src="/_layouts/15/blank.js?rev=ZaOXZEobVwykPO9g8hq%2F8A%3D%3D" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+(function(){
+
+        if (typeof(_spBodyOnLoadFunctions) === 'undefined' || _spBodyOnLoadFunctions === null) {
+            return;
+        }
+        _spBodyOnLoadFunctions.push(function() 
+        {
+          ExecuteOrDelayUntilScriptLoaded(
+            function()
+            {
+              var pairs = SP.ScriptHelpers.getDocumentQueryPairs();
+              var followDoc, itemId, listId, docName;
+              for (var key in pairs)
+              {
+                if(key.toLowerCase() == 'followdocument') 
+                  followDoc = pairs[key];
+                else if(key.toLowerCase() == 'itemid') 
+                  itemId = pairs[key];
+                else if(key.toLowerCase() == 'listid') 
+                  listId = pairs[key];
+                else if(key.toLowerCase() == 'docname') 
+                  docName = decodeURI(pairs[key]);
+              } 
+
+              if(followDoc != null && followDoc == '1' && listId!=null && itemId != null && docName != null)
+              {
+                SP.SOD.executeFunc('followingcommon.js', 'FollowDocumentFromEmail', function() 
+                { 
+                  FollowDocumentFromEmail(itemId, listId, docName);
+                });
+              }
+
+            }, 'SP.init.js');
+
+        });
+    })();(function(){
+
+        if (typeof(_spBodyOnLoadFunctions) === 'undefined' || _spBodyOnLoadFunctions === null) {
+            return;
+        }
+        _spBodyOnLoadFunctions.push(function() {
+
+            if (typeof(SPClientTemplates) === 'undefined' || SPClientTemplates === null || (typeof(APD_InAssetPicker) === 'function' && APD_InAssetPicker())) {
+                return;
+            }
+
+            var renderFollowFooter = function(renderCtx,  calloutActionMenu)
+            {
+                if (renderCtx.ListTemplateType == 700) 
+                    myDocsActionsMenuPopulator(renderCtx, calloutActionMenu);
+                else
+                    CalloutOnPostRenderTemplate(renderCtx, calloutActionMenu);
+
+                var listItem = renderCtx.CurrentItem;
+                if (typeof(listItem) === 'undefined' || listItem === null) {
+                    return;
+                }
+                if (listItem.FSObjType == 0) {
+                    calloutActionMenu.addAction(new CalloutAction({
+                        text: Strings.STS.L_CalloutFollowAction,
+                        tooltip: Strings.STS.L_CalloutFollowAction_Tooltip,
+                        onClickCallback: function (calloutActionClickEvent, calloutAction) {
+                            var callout = GetCalloutFromRenderCtx(renderCtx);
+                            if (!(typeof(callout) === 'undefined' || callout === null))
+                                callout.close();
+                            SP.SOD.executeFunc('followingcommon.js', 'FollowSelectedDocument', function() { FollowSelectedDocument(renderCtx); });
+                        }
+                    }));
+                }
+            };
+
+            var registerOverride = function(id) {
+                var followingOverridePostRenderCtx = {};
+                followingOverridePostRenderCtx.BaseViewID = 'Callout';
+                followingOverridePostRenderCtx.ListTemplateType = id;
+                followingOverridePostRenderCtx.Templates = {};
+                followingOverridePostRenderCtx.Templates.Footer = function(renderCtx) {
+                    var  renderECB;
+                    if (typeof(isSharedWithMeView) === 'undefined' || isSharedWithMeView === null) {
+                        renderECB = true;
+                    } else {
+                        var viewCtx = getViewCtxFromCalloutCtx(renderCtx);
+                        renderECB = !isSharedWithMeView(viewCtx);
+                    }
+                    return CalloutRenderFooterTemplate(renderCtx, renderFollowFooter, renderECB);
+                };
+                SPClientTemplates.TemplateManager.RegisterTemplateOverrides(followingOverridePostRenderCtx);
+            }
+            registerOverride(101);
+            registerOverride(700);
+        });
+    })();if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();//]]>
+</script>
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="610B5B58" />
+	        
+	        <div>				
+				<div class="DefaultContentBlock">
+					
+					
+					<div id="ms-designer-ribbon" style="display:none;">
+						<div>
+	
+	<div id="s4-ribbonrow" style="visibility:hidden;display:none"></div>
+
+</div>
+
+
+					</div>
+					
+				</div>
+			</div>
+			
+			
+			
+		
+			
+			
+	 			
+			
+
+<!-- BEGIN s4-workspace -->
+<div id="s4-workspace">
+	<!-- BEGIN Masthead -->
+	<div id="masthead">
+		<!-- BEGIN Masthead Top -->				
+		<div class="mastheadTop">
+			<!-- BEGIN Secondary Nav -->
+				<div class="SecondaryNav">		
+					<span id="ctl00_LiteralTranslationLabel38">​<a href="https&#58;//community.amd.com/">Community</a>​</span>
+					<span id="ctl00_LiteralTranslationLabel3"><a href="http&#58;//developer.amd.com/pages/default.aspx">Developers</a> </span>
+					<span id="ctl00_LiteralTranslationLabel4"><a href="http&#58;//www.amd.com/en-us/markets/partners">Partners</a></span>				
+					<div class="lang">
+						<span id="ctl00_LiteralTranslationLabel50"><a href="#">​<span class="lang">Language​</span></a></span>
+						<ul class="lang-links">
+							<li>
+								<a href="/zh-cn">简体中文</a>
+							</li>
+							<li>
+								<a href="/en-us">English</a>
+							</li>
+							<li>
+								<a href="/fr-fr">Français</a>
+							</li>
+							<li>
+								<a href="/de-de">Deutsch</a>
+							</li>								
+							<li>
+								<a href="/ja-jp">日本語</a>
+							</li>
+							<li>
+								<a href="/ko-kr">한국어 (Korean)</a>
+							</li>
+							<li>
+								<a href="/pt-br">Português</a>
+							</li>
+							<li>
+								<a href="/ru-ru">Русский</a>
+							</li>
+							<li>
+								<a href="/es-xl">Español</a>
+							</li>	
+						</ul>							
+					</div>
+	    		</div>		    		
+	    		<!-- END Secondary Nav -->								
+			</div>
+			<!-- END Masthead Top -->
+		<!-- BEGIN Masthead Bottom -->
+		<div class="mastheadBottom">
+							<!-- BEGIN Search -->
+							<div id="sitesearch">
+							<div class="search">
+								
+									<div class="search_text_container">														
+										<script language="javascript" type="text/javascript">
+											var GblSearch_helpText = '';
+										</script>
+										<input name="search_csquery" type="text" class="ms-sbplain" maxlength="255" id="search_csquery" onkeypress="return GblSearch_checkEnter(event);" /> 
+									</div>
+									<div class="search_icon_container">
+										<a href="#" onclick="GblSearch_DoSubmit(GblSearch_hostName, GblSearch_variationName, encodeURIComponent(document.forms[0].search_csquery.value), GblSearch_collectionName);" class="SubmitForm">  
+											<i class="fa fa-search"></i>
+										</a>
+									</div>	
+								
+							</div>
+							
+							<script type="text/javascript">
+								$(document).ready(function () {							
+									$('#search_csquery, #search_csquery_mobile').on({
+										focus: function() {
+										$(this).attr("placeholder", "");	
+										}
+									});
+								});
+								// sets the window height correctly if there's a ribbon
+							$(window).load(function(){							
+								if($('#ms-designer-ribbon')) {									
+									var ribbonHeight = $('#ms-designer-ribbon').outerHeight();								
+									var mastheadHeight = 0;
+									if ($('.pageWidth').css('width') != '1px') {
+										var calculatedHeight = window.innerHeight - ribbonHeight;
+									} else {
+										var calculatedHeight = window.innerHeight - mastheadHeight - ribbonHeight;
+									}
+									
+									$(window).resize(function() {
+										var calculatedHeight = window.innerHeight - mastheadHeight - ribbonHeight;
+										if ($('.pageWidth').css('width') != '1px') {
+											var calculatedHeight = window.innerHeight - ribbonHeight;										
+										} else {
+											var calculatedHeight = window.innerHeight - mastheadHeight - ribbonHeight;
+										}
+										$('#s4-workspace').attr('style', 'height:' + calculatedHeight + 'px !important;');	
+									});
+								} else {
+									var mastheadHeight = 0;
+									var calculatedHeight = window.innerHeight - mastheadHeight;																		
+								}								
+								$('#s4-workspace').attr('style', 'height:' + calculatedHeight + 'px !important;');						
+							});							
+								function up(){$(this).find('div').slideUp('fast');};
+								function down(){$(this).find('div').slideDown('fast');};
+							</script>	
+							</div>													
+							<!-- END Search -->
+			<!-- BEGIN Primary Nav -->
+			<div class="primary-nav">
+				<div class="navbar-toggle-mobile">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</div>									
+				<div id="logo">
+					<a href="/"><img src="/Style%20Library/Images/logo_white.svg" alt="" width="140" height="29"></a>
+				</div>
+				<div id="topNav"></div>
+				<div class="navbar-toggle">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</div>															
+			</div>				
+			<!-- END Primary Nav -->		
+		</div>
+		<!-- END Masthead Bottom -->
+		</div>	
+		<!-- END Masthead -->	
+		<div id="nav-offcanvas"></div>	
+		<!-- BEGIN s4-bodyContainer -->
+		<div id="s4-bodyContainer">	
+			<!-- BEGIN Page -->
+		    <div class="page">
+				<!-- BEGIN Page Border -->
+	             <div class="page-border">                    
+		        	<!-- BEGIN Main Content -->
+		            <div class="content">	                                        
+		                <!-- BEGIN Left Nav -->
+		                <div id="DeltaPlaceHolderLeftNavBar" class="ms-core-navigation">
+	
+		                    
+								<div data-name="QuickLaunch"  id="left-col">
+									<div id="left-nav-top"></div>
+		                            <div id="sideNavBox" class="ms-dialogHidden ms-forceWrap ms-noList">
+		                                <div id="left-col">
+		                                    
+		                                    
+		                                    
+		                                    
+		                                    
+		                                    
+		                                    
+		                                    
+		                                    
+		                                    
+		                                    <div id="ctl00_PlaceHolderLeftNavBar_QuickLaunchNavigationManager">
+		<div id="zz1_V4QuickLaunchMenu" class=" noindex ms-core-listMenu-verticalBox">
+			<ul id="zz2_RootAspMenu" class="root ms-core-listMenu-root static">
+				<li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/en-us/search"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Search</span></span></a><ul class="static">
+					<li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/en-us/search/faq"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">FAQ</span></span></a></li>
+				</ul></li><li class="static selected"><a class="static selected menu-item ms-core-listMenu-item ms-displayInline ms-bold ms-core-listMenu-selected ms-navedit-linkNode" tabindex="0" href="/en-us/download"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Download</span><span class="ms-hidden">Currently selected</span></span></a><ul class="static">
+					<li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/en-us/download/pro-control-center"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">AMD PRO Control Center</span></span></a></li>
+				</ul></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="http://www.youtube.com/playlist?list=PL6CFEA6C71BB14979"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Videos</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="http://forums.amd.com/game"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Forums</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/en-us/warranty"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Warranty</span></span></a><ul class="static">
+					<li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/en-us/warranty/mobile-processors"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Mobile Processors</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/en-us/warranty/mobility-graphics"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Mobility Graphics Products</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/en-us/warranty/oem"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">OEM Processors</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/en-us/warranty/epyc-oem"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">OEM Server Processors</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/en-us/warranty/radeon-wonder"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Radeon Graphics &amp; Wonder Products</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/en-us/warranty/pib"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Retail Processors Purchased New in Box</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/en-us/warranty/epyc-pib-service"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">EPYC™ Server CPUs Purchased New in Box</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/en-us/warranty/workstation-graphics"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Workstation Graphics Products</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/en-us/warranty/epyc-pib"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">AMD EPYC PIB Support Documentation</span></span></a></li>
+				</ul></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/en-us/contact"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Contact</span></span></a><ul class="static">
+					<li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/en-us/contact/embedded"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Embedded</span></span></a></li>
+				</ul></li>
+			</ul>
+		</div>
+	</div>
+	                                    
+									<div id="left-nav-bottom"></div>
+	                                </div>
+	                            </div>
+	                        </div>
+	                    
+	                
+</div>
+	                <!-- END Left Nav -->                     
+		            <!-- BEGIN Breadcrumb -->
+					<div class="breadcrumb">
+						<span><a href="#ctl00_ctl60_SkipLink"><img alt="Skip Navigation Links" src="/WebResource.axd?d=kbwGfs926IkXnq9xGCD1UtPXoU7sXKTiJ1MoQAo1sqQk-bCvZtL4grywf4mgNVsKgNhN-FwT2LD4fS9zC4MKhmMaHDB1q6q5kuFrRa5sjPs1&amp;t=635792838737655379" width="0" height="0" border="0" /></a><span><a href="/en-us">Drivers + Support</a></span><span> &gt; </span><span>Download</span><a id="ctl00_ctl60_SkipLink"></a></span>
+					</div>
+					<!-- END Breadcrumb -->					
+                    <!-- BEGIN Content Placeholder Main -->
+                    <div data-name="ContentPlaceHolderMain">                        
+                        <span id="DeltaPlaceHolderMain">
+                            
+<div class="content770">
+	<h1>Download Not Complete</h1>
+	<div id="ctl00_PlaceHolderMain_ctl01_label" style='display:none'>ContentMain1</div><div id="ctl00_PlaceHolderMain_ctl01__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_ctl01_label"><h2>​Review the guide below for solutions to download your file</h2><p> 
+   <br>We’re sorry, but we were unable to complete your download. There could be several reasons for this&#58;</p><p> 
+   <strong>You were linked to this download from a site outside of AMD.com<br></strong>Since we do not allow downloads through sites outside of AMD.com, please download your file directly from our site. We want to make sure you have the right driver for your device and operating system. Choose your product and operating system on the 
+   <a href="/en-us/download">AMD Driver Download page </a>or use the 
+   <a href="/en-us/download/auto-detect-tool">AMD Driver Autodetect </a>to obtain the correct driver for your device.</p><p> 
+   <strong>You copy and pasted the download link or clicked “Save As”</strong><br>When you copy and paste a link or right click on it and select “Save As,” your browser will not send a referrer and our site will not allow the download. Please click the Back button in your browser and simply click the link instead.</p><p> 
+   <strong>Either a browser or firewall is set to disable sending referrers</strong><br>Many browsers and personal firewalls allow you to hide the referrer sending. If you have changed this setting, please change it back to allow referrer checking.</p><p>
+   <strong>You’re using a download manager</strong><br>Change the settings in your download manager to send an HTTP referrer so that we can verify that you are using our site for the download. </p><ul class="linklist"><li>
+      <a href="/en-us/download/auto-detect-tool">Are you a Windows® user? Download AMD Driver Autodetect</a></li><li>
+      <a href="/en-us/contact">Need help? Visit our customer care section</a></li></ul></div>
+	<menu class="ms-hide">
+	<ie:menuitem id="MSOMenu_Help" iconsrc="/_layouts/15/images/HelpIcon.gif" onmenuclick="MSOWebPartPage_SetNewWindowLocation(MenuWebPart.getAttribute('helpLink'), MenuWebPart.getAttribute('helpMode'))" text="Help" type="option" style="display:none">
+
+	</ie:menuitem>
+</menu>
+	<div id="ctl00_PlaceHolderMain_ctl02__ControlWrapper_SummaryLinkFieldControl" style="display:inline"><div id="slwp_ctl00_PlaceHolderMain_ctl02_ctl00" class="slm-layout-main slwpmarker" xmlns:pcm="urn:PageContentManager"><!--empty--></div></div>
+
+	<!-- BEGIN Page Footer -->
+	<div class="page-footer-container">
+		<div class="page-footer-bar">
+			<div class="page-footer-title">
+				
+			</div>
+		</div>
+		<div class="page-footer-content">
+			<div>
+				<div id="ctl00_PlaceHolderMain_ctl04_label" style='display:none'>PageFooter</div><div id="ctl00_PlaceHolderMain_ctl04__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_ctl04_label"></div>
+			</div>
+			<div class="clearfix"></div>
+		</div>	
+	</div>
+	<!-- END Page Footer -->
+
+</div>
+
+	
+<div style='display:none' id='hidZone'></div>
+                        </span>                        
+                    </div>
+                    <!-- END Content Placeholder Main -->                            
+				</div>
+                <!-- END Main Content -->
+ 				<!-- BEGIN Footer -->						
+				<div id="legalLabel">
+					<span id="ctl00_LiteralTranslationLabel100">Footnotes</span>
+				</div>				
+			</div>				
+            <!-- END page-border-->
+            <!-- BEGIN Footer Container -->
+				<div class="footerContainer">									
+					<div class="footer">
+						<!-- <div id="footer-nav"></div> -->
+						<div class="footer-main">						
+							<ul class="footer-nav" id="hide">
+								<li id="about">
+									<span id="ctl00_LiteralTranslationLabel51">​<a href="http&#58;//www.amd.com/en-us/who-we-are">About Us</a></span>
+								</li>
+								<li id="newsroom">
+									<span id="ctl00_LiteralTranslationLabel52"><a href="http&#58;//www.amd.com/en-us/who-we-are/newsroom">Newsroom</a></span>
+								</li>							
+								<li id="careers">
+									<span id="ctl00_LiteralTranslationLabel31"><span style="background-color&#58;#ffffff;">​</span><a href="http&#58;//www.amd.com/en-us/who-we-are/careers" style="background-color&#58;#ffffff;">Careers</a></span>
+								</li>
+								<li id="corpresp">
+									<span id="ctl00_LiteralTranslationLabel53">​<a href="http&#58;//www.amd.com/en-us/who-we-are/corporate-responsibility">Corporate Responsibility</a>​</span>
+								</li>
+								<li id="ceo">
+									<span id="ctl00_LiteralTranslationLabel55"><a href="http&#58;//www.amd.com/en-us/who-we-are/corporate-information/leadership/dr-lisa-su">Meet our CEO</a>​</span>
+								</li>
+								<li id="investors">
+									<span id="ctl00_LiteralTranslationLabel29"><a href="http&#58;//ir.amd.com/">Investors</a></span>
+								</li>
+								<li id="blogs">
+									<span id="ctl00_LiteralTranslationLabel60"><a href="http&#58;//community.amd.com/">Blogs</a>​</span>
+								</li>															
+							</ul>
+							<ul class="footer-nav bottom" id="hide">
+<!--							
+								<li id="compinfo">
+									<span id="ctl00_LiteralTranslationLabel54"><a href="http&#58;//www.amd.com/en-us/who-we-are/corporate-information">Company Information</a></span>
+								</li>							
+								<li id="leadership">
+									<span id="ctl00_LiteralTranslationLabel56"><a href="http&#58;//www.amd.com/en-us/who-we-are/corporate-information/leadership">Leadership Team</a></span>
+								</li>
+								<li id="history">
+									<span id="ctl00_LiteralTranslationLabel57"><a href="http&#58;//www.amd.com/en-us/who-we-are/corporate-information/history">History</a></span>
+								</li>
+								<li id="events">
+									<span id="ctl00_LiteralTranslationLabel58"><a href="http&#58;//www.amd.com/en-us/who-we-are/corporate-information/events">Events</a></span>
+								</li>
+								<li id="ventures">
+									<span id="ctl00_LiteralTranslationLabel59"><a href="http&#58;//www.amd.com/en-us/who-we-are/corporate-information/ventures">AMD Ventures</a></span>
+								</li>							
+-->									
+							</ul>							
+						</div>			
+					<div class="followContainer">	
+						<!-- BEGIN Follow Us -->																					
+						<div class="follow">							
+							<span id="ctl00_LiteralTranslationLabel82"></span>
+							<span id="ctl00_LiteralTranslationLabel83"><a href="http&#58;//www.facebook.com/amd" target="_blank" class="facebook">Facebook</a></span>
+							<span id="ctl00_LiteralTranslationLabel84"><a href="https&#58;//twitter.com/amd" class="twitter" target="_blank">Twitter</a></span>		
+							<span id="ctl00_LiteralTranslationLabel85"><a href="http&#58;//www.linkedin.com/company/amd" class="linkedin" target="_blank">LinkedIn</a></span>		
+							<span id="ctl00_LiteralTranslationLabel86"><a target="_blank" href="https&#58;//plus.google.com/+AMD/posts" class="gplus">​Google+</a></span>		
+							<span id="ctl00_LiteralTranslationLabel87">​<a href="http&#58;//www.pinterest.com/amd/" target="_blank" class="pinterest">Pinterest​</a></span>			
+							<span id="ctl00_LiteralTranslationLabel88"><a href="https&#58;//www.youtube.com/user/amd?sub_confirmation=1" class="youtube" target="_blank">YouTube</a></span>	
+							<span id="ctl00_LiteralTranslationLabel89">​<a href="http&#58;//www.amd.com/en-us/who-we-are/subscriptions" class="newsletter">Newsletter</a></span>							
+						</div>
+						<div class="follow-zh-cn">							
+							<span id="ctl00_LiteralTranslationLabel70"></span>		
+							<span id="ctl00_LiteralTranslationLabel71"></span>	
+							<span id="ctl00_LiteralTranslationLabel72"></span>		
+							<span id="ctl00_LiteralTranslationLabel74"><a href="http&#58;//www.linkedin.com/company/amd" class="linkedin" target="_blank">LinkedIn</a></span>	
+							<span id="ctl00_LiteralTranslationLabel75">​<a href="http&#58;//www.amd.com/en-us/who-we-are/subscriptions" class="newsletter">Newsletter</a></span>								
+						</div>						
+						<!-- END Follow Us -->
+					</div>
+<!--					
+					<div id="newsletter-signUp-wrapper" class="footer-newsletter">
+						<form class="amd-newsletter" data-drupal-selector="amd-newsletter" action="/" method="post" id="amd-newsletter" accept-charset="UTF-8">
+							<div class="form-group">
+								<div class="js-form-item form-item js-form-type-email form-item-email js-form-item-email">
+									<label for="edit-email">Subscribe to the latest news and updates from AMD</label>
+									<input placeholder="user@somedomain.com" data-drupal-selector="edit-email" type="email" id="edit-email" name="email" value="" size="60" maxlength="254" class="form-email">				
+									<input data-drupal-selector="edit-subscribe" type="submit" id="edit-subscribe" name="op" value="Submit" class="button js-form-submit form-submit">
+								</div>
+								<input data-drupal-selector="edit-url" disabled="disabled" type="hidden" name="url" value="https://www.amd.com/">
+								<input data-drupal-selector="form-ttgf9ip83dnyu9zmlawpwidvugb-wuvx48pny9pnanu" type="hidden" name="form_build_id" value="form-ttgf9iP83DNyu9zMLaWpwIDVuGB-wuvX48pny9pnaNU">
+								<input data-drupal-selector="edit-amd-newsletter" type="hidden" name="form_id" value="amd_newsletter">
+							</div>
+						</form>
+					</div>
+<--													
+					<!-- BEGIN Footer Links -->
+					<div class="footer-links">	                                                                          
+						<ul class="links">
+							<li>
+								<span class="copyright">&copy;<script type="text/javascript" language="javascript">document.write(new Date().getFullYear());</script><noscript>2014</noscript> Advanced Micro Devices, Inc.</span>
+							</li>
+							<li>
+								<span id="ctl00_LiteralTranslationLabel15"><a href="http&#58;//www.amd.com/en-us/who-we-are/copyright">Terms and Conditions</a></span>
+							</li>
+							<li>
+								<span id="ctl00_LiteralTranslationLabel16"><a href="http&#58;//www.amd.com/en-us/who-we-are/privacy" style="background-color&#58;#ffffff;">Privacy</a></span>
+							</li>
+							<li>
+								<span id="ctl00_LiteralTranslationLabel37"><a href="http&#58;//www.amd.com/en-us/who-we-are/cookies" style="background-color&#58;#ffffff;">Cookie Policy</a></span>
+							</li>
+							<li>
+								<span id="ctl00_LiteralTranslationLabel17"><a href="http&#58;//www.amd.com/en-us/who-we-are/trademarks">Tradem​arks</a></span>
+							</li>
+							<li>
+								<span id="ctl00_LiteralTranslationLabel18"></span>
+							</li>					
+							<li>
+								<span id="ctl00_LiteralTranslationLabel10">​<a href="http&#58;//www.amd.com/en-us/who-we-are/contact">Contact Us</a></span>
+							</li>
+							<li class="labor">
+								<span id="ctl00_LiteralTranslationLabel44">​​<a href="http&#58;//www.amd.com/Documents/AMD-Statement-Human-Trafficking-Forced-Labor.pdf" target="_blank">Statement on Forced Labor</a></span>
+							</li>
+							<li>
+								<span id="ctl00_LiteralTranslationLabel76"><p>​​</p></span>
+							</li>																				
+						</ul> 
+					</div>                      
+					<!-- END Footer Links -->
+				</div>
+			</div>
+			<!-- END Footer Container -->
+			<div class="pageWidth"></div>									
+		</div>	
+        <!-- END page -->            
+	</div>
+    <!-- END s4-bodyContainer -->    
+</div>
+<!-- END s4-workspace -->
+        
+        <div class="ms-hide">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+			
+			
+			
+			
+			
+			
+        </div>
+	    <div id="DeltaFormDigest">
+	
+	    	
+				<script type="text/javascript">//<![CDATA[
+        var formDigestElement = document.getElementsByName('__REQUESTDIGEST')[0];
+        if (!((formDigestElement == null) || (formDigestElement.tagName.toLowerCase() != 'input') || (formDigestElement.type.toLowerCase() != 'hidden') ||
+            (formDigestElement.value == null) || (formDigestElement.value.length <= 0)))
+        {
+            formDigestElement.value = '0x64D995DA1EDC5836AAC90FD5ACF414F4D52FC0789976D5DF876F3E5E823638930BCBDAF479A070BB7B4E1E0718A0197C608044A6B9CACB8D329F149558F3AA28,11 Jun 2018 17:57:42 -0000';
+            g_updateFormDigestPageLoaded = new Date();
+        }
+        //]]>
+        </script>
+		    
+		
+</div>
+	
+
+<script type="text/javascript">
+//<![CDATA[
+var _spFormDigestRefreshInterval = 1440000;window.g_updateFormDigestPageLoaded = new Date(); window.g_updateFormDigestPageLoaded.setDate(window.g_updateFormDigestPageLoaded.getDate() -5);function loadMDN2() { EnsureScript('MDN.js', typeof(loadFilterFn), null); }
+function loadMDN1() { ExecuteOrDelayUntilScriptLoaded(loadMDN2, 'sp.ribbon.js'); }
+_spBodyOnLoadFunctionNames.push('loadMDN1');
+function _spNavigateHierarchyEx(nodeDiv, dataSourceId, dataPath, url, listInContext, type, additionalQString) {
+    CoreInvoke('SetAdditionalNavigateHierarchyQString', additionalQString);
+    g_originalSPNavigateFunc(nodeDiv, dataSourceId, dataPath, url, listInContext, type);
+}
+
+g_originalSPNavigateFunc = _spNavigateHierarchy;
+_spNavigateHierarchy = _spNavigateHierarchyEx;
+var _fV4UI = true;
+function _RegisterWebPartPageCUI()
+{
+    var initInfo = {editable: false,isEditMode: false,allowWebPartAdder: false,listId: "{e922bc7c-9a1e-4e1f-aca5-388b439f99df}",itemId: 269,recycleBinEnabled: true,enableMinorVersioning: true,enableModeration: true,forceCheckout: true,rootFolderUrl: "\u002fen-us\u002fPages",itemPermissions:{High:16,Low:196673}};
+    SP.Ribbon.WebPartComponent.registerWithPageManager(initInfo);
+    var wpcomp = SP.Ribbon.WebPartComponent.get_instance();
+    var hid;
+    hid = document.getElementById("_wpSelected");
+    if (hid != null)
+    {
+        var wpid = hid.value;
+        if (wpid.length > 0)
+        {
+            var zc = document.getElementById(wpid);
+            if (zc != null)
+                wpcomp.selectWebPart(zc, false);
+        }
+    }
+    hid = document.getElementById("_wzSelected");
+    if (hid != null)
+    {
+        var wzid = hid.value;
+        if (wzid.length > 0)
+        {
+            wpcomp.selectWebPartZone(null, wzid);
+        }
+    }
+};
+function __RegisterWebPartPageCUI() {
+ExecuteOrDelayUntilScriptLoaded(_RegisterWebPartPageCUI, "sp.ribbon.js");}
+_spBodyOnLoadFunctionNames.push("__RegisterWebPartPageCUI");var __wpmExportWarning='This Web Part Page has been personalized. As a result, one or more Web Part properties may contain confidential information. Make sure the properties contain information that is safe for others to read. After exporting this Web Part, view properties in the Web Part description file (.WebPart) by using a text editor such as Microsoft Notepad.';var __wpmCloseProviderWarning='You are about to close this Web Part.  It is currently providing data to other Web Parts, and these connections will be deleted if this Web Part is closed.  To close this Web Part, click OK.  To keep this Web Part, click Cancel.';var __wpmDeleteWarning='You are about to permanently delete this Web Part.  Are you sure you want to do this?  To delete this Web Part, click OK.  To keep this Web Part, click Cancel.';var g_clientIdDeltaPlaceHolderMain = "DeltaPlaceHolderMain";
+var g_clientIdDeltaPlaceHolderUtilityContent = "DeltaPlaceHolderUtilityContent";
+g_QuickLaunchControlIds.push("zz1_V4QuickLaunchMenu");_spBodyOnLoadFunctionNames.push('QuickLaunchInitDroppable'); var g_zz1_V4QuickLaunchMenu = null; function init_zz1_V4QuickLaunchMenu() { if (g_zz1_V4QuickLaunchMenu == null) g_zz1_V4QuickLaunchMenu = $create(SP.UI.AspMenu, null, null, null, $get('zz1_V4QuickLaunchMenu')); } ExecuteOrDelayUntilScriptLoaded(init_zz1_V4QuickLaunchMenu, 'SP.Core.js');
+//]]>
+</script>
+</form>
+	<span id="DeltaPlaceHolderUtilityContent">
+		
+	</span>
+	</body>
+</html>
+<!-- Rendered using cache profile:Entire Support Site (Anonymous) at: 2018-06-11T12:57:42 -->

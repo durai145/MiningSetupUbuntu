@@ -1,0 +1,97 @@
+00:52:35:808	5a531740	Check and remove old log files...
+00:52:35:808	5a531740	args: -epool us1.ethpool.org:3333 -ewal 0xf9638c00290dfb7bdde8ed8d491528d2c5c7083c -epsw x -dpool stratum+tcp://dcr.suprnova.cc:3252 -dwal Redhex.my -dpsw x 
+00:52:35:808	5a531740	
+00:52:35:808	5a531740	ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+00:52:35:808	5a531740	บ                Claymore's Dual GPU Miner - v11.0               บ
+00:52:35:808	5a531740	บ              ETH + DCR/SIA/LBC/PASC/BLAKE2S/KECCAK             บ
+00:52:35:808	5a531740	ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+00:52:35:808	5a531740	
+00:52:35:808	5a531740	b501 
+00:52:36:009	5a531740	ETH: 1 pool is specified
+00:52:36:009	5a531740	Main Ethereum pool is us1.ethpool.org:3333
+00:52:36:009	5a531740	DCR: 1 pool is specified
+00:52:36:009	5a531740	Main Decred pool is dcr.suprnova.cc:3252
+00:52:36:037	5a531740	OpenCL platform: NVIDIA CUDA
+00:52:36:037	5a531740	AMD OpenCL platform not found 
+00:52:36:054	5a531740	CUDA initializing...
+
+00:52:36:054	5a531740	NVIDIA Cards available: 2 
+00:52:36:054	5a531740	CUDA Driver Version/Runtime Version: 9.2/8.0
+00:52:36:058	5a531740	GPU #0: GeForce GTX 1080 Ti, 11178 MB available, 28 compute units, capability: 6.1  (pci bus 14:0:0)
+
+00:52:36:058	5a531740	GPU #1: GeForce GTX 1080 Ti, 11178 MB available, 28 compute units, capability: 6.1  (pci bus 16:0:0)
+
+00:52:36:058	5a531740	Total cards: 2 
+00:52:40:059	5a531740	No AMD cards in the list, ADL library will not be used.
+00:52:40:064	5a531740	NVML version: 9.396.26
+00:52:40:564	9fff700	ETH: Stratum - connecting to 'us1.ethpool.org' <35.185.92.48> port 3333
+00:52:40:583	9fff700	send: {"worker": "eth1.0", "jsonrpc": "2.0", "params": ["0xf9638c00290dfb7bdde8ed8d491528d2c5c7083c", "x"], "id": 2, "method": "eth_submitLogin"}
+
+00:52:40:583	9fff700	ETH: Stratum - Connected (us1.ethpool.org:3333)
+00:52:40:613	9fff700	got 39 bytes
+00:52:40:613	9fff700	buf: {"id":2,"jsonrpc":"2.0","result":true}
+
+00:52:40:613	9fff700	parse packet: 38
+00:52:40:613	9fff700	ETH: Authorized
+00:52:40:613	9fff700	send: {"worker": "", "jsonrpc": "2.0", "params": [], "id": 3, "method": "eth_getWork"}
+
+00:52:40:613	9fff700	new buf size: 0
+00:52:40:634	9fff700	got 248 bytes
+00:52:40:634	9fff700	buf: {"id":3,"jsonrpc":"2.0","result":["0xa5a534a1e91ee8cb47a0112fb282bdb9ff7fe014690927c39563edfedcd28ed7","0x9e61ee571ab2ea417369c478f8b799336c24f1a4d139390c66a4475aae0a3eee","0x0112e0be826d694b2e62d01511f12a6061fbaec8bc02357593e70e52ba","0x583163"]}
+
+00:52:40:634	9fff700	parse packet: 247
+00:52:40:634	9fff700	ETH: job changed
+00:52:40:634	9fff700	new buf size: 0
+00:52:40:649	5a531740	DUAL MINING MODE ENABLED: ETHEREUM+DECRED
+00:52:40:649	5a531740	ETH: eth-proxy stratum mode
+00:52:40:649	5a531740	Watchdog enabled
+00:52:40:649	5a531740	Remote management (READ-ONLY MODE) is enabled on port 3333
+00:52:40:649	5a531740	
+00:52:40:651	40aa6700	Setting DAG epoch #192...
+00:52:40:747	97fe700	 DCR: Stratum - connecting to 'dcr.suprnova.cc' <149.202.215.198> port 3252
+00:52:40:832	97fe700	send: {"id": 1, "method": "mining.subscribe", "params": ["dual 1.0"]}
+
+00:52:40:832	97fe700	send: {"id": 5, "method": "mining.extranonce.subscribe", "params": []}
+
+00:52:40:832	97fe700	send: {"id": 2, "method": "mining.authorize", "params": ["Redhex.my","x"]}
+
+00:52:40:832	97fe700	 DCR: Stratum - Connected (dcr.suprnova.cc:3252)
+00:52:40:953	97fe700	got 118 bytes
+00:52:40:953	97fe700	buf: {"id":1,"result":[[["mining.notify","deadbeefcafebabe9fe1150000000000"]],"4b00186f3f133b12e8db6e97",12],"error":null}
+
+00:52:40:953	97fe700	parse packet: 117
+00:52:40:953	97fe700	new buf size: 0
+00:52:40:963	97fe700	got 461 bytes
+00:52:40:963	97fe700	buf: {"id":null,"method":"mining.set_difficulty","params":[128]}
+{"id":null,"method":"mining.notify","params":["e03a","6bdc641cb35da0410b24ec17ffb2f027af41ce378353031f0000000000000000","f34fcea9b26cb5bb85be10dafc5a749112cf1d1875f76ca2b293338b2b4e704b11a59db14b933a6491128ab9728b0b7d72fa0d90a86f77de9fba689ca8f827ae01005517f92be260050000005ea00000952b02199025ce390200000064c60300ad1d000010a3205b0000000000000000","05000000",[],"05000000","19022b95","5b20a310",true]}
+
+00:52:40:963	97fe700	parse packet: 59
+00:52:40:963	97fe700	remove first packet 401
+00:52:40:963	97fe700	new buf size: 401
+00:52:40:963	97fe700	parse packet: 400
+00:52:40:963	97fe700	new buf size: 0
+00:52:41:041	97fe700	got 36 bytes
+00:52:41:041	97fe700	buf: {"id":2,"result":true,"error":null}
+
+00:52:41:041	97fe700	parse packet: 35
+00:52:41:041	97fe700	 DCR: Authorized
+00:52:41:041	97fe700	new buf size: 0
+00:52:42:755	40aa6700	Setting DAG epoch #192 for GPU0
+00:52:42:755	40aa6700	Create GPU buffer for GPU0
+00:52:42:756	1cffd700	Setting DAG epoch #192 for GPU1
+00:52:42:756	1cffd700	Create GPU buffer for GPU1
+00:52:50:634	9fff700	ETH: checking pool connection...
+00:52:50:635	9fff700	send: {"worker": "", "jsonrpc": "2.0", "params": [], "id": 3, "method": "eth_getWork"}
+
+00:52:50:651	9fff700	got 248 bytes
+00:52:50:651	9fff700	buf: {"id":3,"jsonrpc":"2.0","result":["0xa5a534a1e91ee8cb47a0112fb282bdb9ff7fe014690927c39563edfedcd28ed7","0x9e61ee571ab2ea417369c478f8b799336c24f1a4d139390c66a4475aae0a3eee","0x0112e0be826d694b2e62d01511f12a6061fbaec8bc02357593e70e52ba","0x583163"]}
+
+00:52:50:651	9fff700	parse packet: 247
+00:52:50:651	9fff700	ETH: job is the same
+00:52:50:651	9fff700	new buf size: 0
+00:52:53:835	5a531740	Quit signal received...
+00:52:53:936	5a531740	Quit, please wait...
+00:52:59:130	40aa6700	GPU0 DAG creation time - 16164 ms
+00:52:59:130	40aa6700	Setting DAG epoch #192 for GPU0 done
+00:52:59:149	1cffd700	GPU1 DAG creation time - 16187 ms
+00:52:59:149	1cffd700	Setting DAG epoch #192 for GPU1 done
